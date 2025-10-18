@@ -5,6 +5,8 @@ Extrair data: https://trevorfox.com/linkedin-post-date-extractor.html
 
 19/05
 https://www.linkedin.com/posts/renatogroffe_analisando-a-seguran%C3%A7a-em-um-cluster-kubernetes-activity-7330285242114617346-EAij
+https://app.advocu.com/activities/6831780d0406a8051894b016?communityslug=dockercaptains
+
 
 19/08
 https://www.linkedin.com/posts/renatogroffe_sqlserver-mcp-githubcopilot-activity-7363637262447763456-Bm3-/
