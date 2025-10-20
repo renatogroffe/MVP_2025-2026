@@ -10,3 +10,6 @@ https://app.advocu.com/activities/6831780d0406a8051894b016?communityslug=dockerc
 
 19/08
 https://www.linkedin.com/posts/renatogroffe_sqlserver-mcp-githubcopilot-activity-7363637262447763456-Bm3-/ https://app.advocu.com/activities/68f30b9f519905361385d9d5?communityslug=dockercaptains
+
+18/10
+https://www.linkedin.com/posts/renatogroffe_grafana-opentelemetry-tempo-activity-7385359026668212225-iGwZ/
