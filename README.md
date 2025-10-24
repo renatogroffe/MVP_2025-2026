@@ -13,3 +13,6 @@ https://www.linkedin.com/posts/renatogroffe_sqlserver-mcp-githubcopilot-activity
 
 18/10
 https://www.linkedin.com/posts/renatogroffe_grafana-opentelemetry-tempo-activity-7385359026668212225-iGwZ/
+
+23/10
+https://www.linkedin.com/posts/renatogroffe_testcontainers-containers-docker-activity-7387133886939557888-AIBm/
