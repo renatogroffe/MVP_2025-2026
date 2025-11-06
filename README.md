@@ -16,3 +16,6 @@ https://www.linkedin.com/posts/renatogroffe_grafana-opentelemetry-tempo-activity
 
 23/10
 https://www.linkedin.com/posts/renatogroffe_testcontainers-containers-docker-activity-7387133886939557888-AIBm/
+
+05/11
+https://www.linkedin.com/posts/renatogroffe_integrations-containers-cloudnative-activity-7391882034782289920-jS0-/
