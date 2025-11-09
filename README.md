@@ -22,3 +22,6 @@ https://www.linkedin.com/posts/renatogroffe_testcontainers-containers-docker-act
 
 05/11
 https://www.linkedin.com/posts/renatogroffe_integrations-containers-cloudnative-activity-7391882034782289920-jS0-/
+
+08/11
+https://www.linkedin.com/posts/renatogroffe_mcp-modelcontextprotocol-ai-activity-7392969155764965377-yMb3/
