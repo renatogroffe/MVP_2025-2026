@@ -25,3 +25,6 @@ https://www.linkedin.com/posts/renatogroffe_integrations-containers-cloudnative-
 
 08/11
 https://www.linkedin.com/posts/renatogroffe_mcp-modelcontextprotocol-ai-activity-7392969155764965377-yMb3/
+
+15/11
+https://www.linkedin.com/posts/renatogroffe_ai-llm-opentelemetry-activity-7395505898552487936-tA-1/
