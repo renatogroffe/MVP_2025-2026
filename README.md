@@ -28,3 +28,6 @@ https://www.linkedin.com/posts/renatogroffe_mcp-modelcontextprotocol-ai-activity
 
 15/11
 https://www.linkedin.com/posts/renatogroffe_ai-llm-opentelemetry-activity-7395505898552487936-tA-1/
+
+16/11
+https://www.linkedin.com/posts/renatogroffe_azure-cloud-containers-activity-7395987154658648064-bQhe/
