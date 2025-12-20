@@ -31,3 +31,6 @@ https://www.linkedin.com/posts/renatogroffe_ai-llm-opentelemetry-activity-739550
 
 16/11
 https://www.linkedin.com/posts/renatogroffe_azure-cloud-containers-activity-7395987154658648064-bQhe/
+
+19/11
+https://www.linkedin.com/posts/renatogroffe_docker-devsecops-containers-activity-7407785524465156097-vsx_/
