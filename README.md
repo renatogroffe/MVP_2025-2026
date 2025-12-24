@@ -37,3 +37,6 @@ https://www.linkedin.com/posts/renatogroffe_docker-devsecops-containers-activity
 
 20/12
 https://www.linkedin.com/posts/renatogroffe_devops-certification-az400-activity-7408189449924415489-2NVS/
+
+24/12
+https://www.linkedin.com/posts/renatogroffe_docker-dockerhardenedimages-containers-activity-7409656968807878657-6--e/
