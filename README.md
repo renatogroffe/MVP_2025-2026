@@ -43,3 +43,6 @@ https://www.linkedin.com/posts/renatogroffe_docker-dockerhardenedimages-containe
 
 03/01
 https://www.linkedin.com/posts/renatogroffe_testcontainers-benchmarkdotnet-dotnet-activity-7413270481426096128-6UlE/
+
+06/01
+https://www.linkedin.com/posts/renatogroffe_dotnet-dockerhardenedimages-docker-activity-7414350077647003648-wzgI/
