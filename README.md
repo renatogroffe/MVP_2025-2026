@@ -49,3 +49,6 @@ https://www.linkedin.com/posts/renatogroffe_dotnet-dockerhardenedimages-docker-a
 
 09/01
 https://www.linkedin.com/posts/renatogroffe_k6-mcp-ai-activity-7415377417134940160-CuC3/
+
+10/01
+https://www.linkedin.com/posts/renatogroffe_certification-cosmosdb-azure-activity-7415871490086301696-ujrh
