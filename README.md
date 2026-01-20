@@ -52,3 +52,6 @@ https://www.linkedin.com/posts/renatogroffe_k6-mcp-ai-activity-74153774171349401
 
 10/01
 https://www.linkedin.com/posts/renatogroffe_certification-cosmosdb-azure-activity-7415871490086301696-ujrh
+
+17/01
+https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activity-7418336305979326464-1zrR/
