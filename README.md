@@ -7,7 +7,6 @@ Extrair data: https://trevorfox.com/linkedin-post-date-extractor.html
 https://www.linkedin.com/posts/renatogroffe_analisando-a-seguran%C3%A7a-em-um-cluster-kubernetes-activity-7330285242114617346-EAij
 https://app.advocu.com/activities/6831780d0406a8051894b016?communityslug=dockercaptains
 
-
 19/08
 https://www.linkedin.com/posts/renatogroffe_sqlserver-mcp-githubcopilot-activity-7363637262447763456-Bm3-/ https://app.advocu.com/activities/68f30b9f519905361385d9d5?communityslug=dockercaptains
 
@@ -55,3 +54,6 @@ https://www.linkedin.com/posts/renatogroffe_certification-cosmosdb-azure-activit
 
 17/01
 https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activity-7418336305979326464-1zrR/
+
+27/01
+https://www.linkedin.com/posts/renatogroffe_prometheus-aspnetcore-grafana-activity-7421960187323760640-cUGx/
