@@ -57,3 +57,20 @@ https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activi
 
 27/01
 https://www.linkedin.com/posts/renatogroffe_prometheus-aspnetcore-grafana-activity-7421960187323760640-cUGx/
+
+---
+
+Grafana em Janeiro/2026:
+
+20/01 vídeo https://www.youtube.com/watch?v=w99rBTWeRlI
+20/01 GitHub https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-grafana_consultaprodutos
+23/01 vídeo https://www.youtube.com/watch?v=X9Mou8__ECQ
+23/01 GitHub https://github.com/renatogroffe/cloud-roadmap-2026
+25/01 live https://www.youtube.com/watch?v=l9R1KVqz4V0
+27/01 GitHub https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-postgres_contagemacessos
+27/01 GitHub https://github.com/renatogroffe/dotnet10-consoleapp-otel-grafana_consumoapis
+27/01 LinkedIn https://www.linkedin.com/posts/renatogroffe_prometheus-aspnetcore-grafana-activity-7421960187323760640-cUGx/
+30/01 GitHub https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout-otel-grafana
+30/01 GitHub https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-grafana
+31/01 meetup https://github.com/DotNetSP/ai-weekend-2026-01
+31/01 GitHub https://github.com/renatogroffe/produtividade-ias-mcps_ai-weekend-2026-01
