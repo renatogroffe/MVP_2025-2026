@@ -58,6 +58,9 @@ https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activi
 27/01
 https://www.linkedin.com/posts/renatogroffe_prometheus-aspnetcore-grafana-activity-7421960187323760640-cUGx/
 
+07/02
+https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-activity-7425883497405423616-sTIx/
+
 ---
 
 Grafana em Janeiro/2026:
