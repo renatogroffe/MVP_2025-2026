@@ -61,6 +61,9 @@ https://www.linkedin.com/posts/renatogroffe_prometheus-aspnetcore-grafana-activi
 07/02
 https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-activity-7425883497405423616-sTIx/
 
+09/02
+https://www.linkedin.com/posts/renatogroffe_grafana-loki-logging-activity-7426700992022433792-arCi/
+
 ---
 
 Grafana em Janeiro/2026:
