@@ -64,6 +64,9 @@ https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-activity-
 09/02
 https://www.linkedin.com/posts/renatogroffe_grafana-loki-logging-activity-7426700992022433792-arCi/
 
+14/02
+https://www.linkedin.com/posts/renatogroffe_rabbitmq-opentelemetry-dotnet-activity-7428483160721657858-jtk5/
+
 ---
 
 Grafana em Janeiro/2026:
