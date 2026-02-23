@@ -67,6 +67,9 @@ https://www.linkedin.com/posts/renatogroffe_grafana-loki-logging-activity-742670
 14/02
 https://www.linkedin.com/posts/renatogroffe_rabbitmq-opentelemetry-dotnet-activity-7428483160721657858-jtk5/
 
+21/02
+https://www.linkedin.com/posts/renatogroffe_ai-grafana-opentelemetry-activity-7430974633878773761-0uBE/
+
 ---
 
 Grafana em Janeiro/2026:
