@@ -70,6 +70,9 @@ https://www.linkedin.com/posts/renatogroffe_rabbitmq-opentelemetry-dotnet-activi
 21/02
 https://www.linkedin.com/posts/renatogroffe_ai-grafana-opentelemetry-activity-7430974633878773761-0uBE/
 
+07/03
+https://www.linkedin.com/posts/renatogroffe_k6-azuredevops-webdashboard-activity-7436046321075142657-Yq63
+
 ---
 
 Grafana em Janeiro/2026:
