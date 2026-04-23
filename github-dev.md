@@ -10,6 +10,19 @@ Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, 
 
 The table below describes each of the projects, including links to view each of these examples.
 
+
+COMEÇAR EM: https://github.com/renatogroffe?page=9&tab=repositories
+
+
+| Description | Date | Link |
+| ------------ | ---- | ---- |
+| Content about new .NET 10 features used during a presentation in April 2025. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-2025-04 |
+| Example in .NET 10 of a Console Application that makes use of Null-conditional assignment. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-ConsoleApp-NullConditionalAssignment |
+| Content on API security, presenting vulnerabilities from the OWASP API Top 10. It also includes best security practices for implementing Docker container-based solutions. | 2025-04-04 | https://github.com/renatogroffe/OWASP-APITop10_Joinville-2025-04 |
+
+xxxxxxxxxx
+
+
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Contents about Twelve Factor App from presentation held on 03/22/2025. | 2025-03-22 | https://github.com/renatogroffe/TwelveFactorApp_UniMetrocamp-2025-03 |
