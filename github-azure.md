@@ -10,6 +10,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Content about OpenTelemetry from a presentation given during the April 2025 edition of DevOps Experience. | 2025-04-24 | https://github.com/renatogroffe/OpenTelemetry_DevOpsExperience-2025-04 |
 | Docker Compose script for setting up an environment to collect traces from applications that use Elastic APM (via OpenTelemetry libraries), as well as MySQL and PostgreSQL databases. | 2025-04-24 | https://github.com/renatogroffe/otel-elasticapm-postgres-mysql_distributed-tracing |
 | Presentation on Integration Architecture given on April 17, 2025. Technologies and topics covered: Microsoft Azure, Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-04-17 | https://github.com/renatogroffe/ArquiteturaIntegracoes-2025-04 |
 
