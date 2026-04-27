@@ -16,6 +16,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=9&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline using BenchmarkDotNet to evaluate the performance of adding records to a test application that uses Dapper, ADO, and Entity Framework Core. | 2025-04-15 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Postgres |
 | Example of a .NET 9 implementation (Console App) of benchmarking with tests comparing the performance of Dapper, ADO.NET, and Entity Framework Core in inserting data into PostgreSQL, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2025-04-15 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-Postgres-Dapper-EFCore-ADO |
 | Content about new .NET 10 features used during a presentation in April 2025. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-2025-04 |
 | Example in .NET 10 of a Console Application that makes use of Null-conditional assignment. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-ConsoleApp-NullConditionalAssignment |
