@@ -10,6 +10,12 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Presentation on Integration Architecture given on April 17, 2025. Technologies and topics covered: Microsoft Azure, Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-04-17 | https://github.com/renatogroffe/ArquiteturaIntegracoes-2025-04 |
+
+xxxxxxxxxxxxxxxxxxxxx
+
+| Description | Date | Link |
+| ------------ | ---- | ---- |
 | Content on Container Security from a presentation given during the March-2025 edition of DevOps Experience. | 2025-03-27 | https://github.com/renatogroffe/SegurancaContainers_DevOpsExperience-2025-03 |
 | Azure DevOps pipeline with an example of running the Trivy tool to scan for vulnerabilities on a Kubernetes cluster (created via kind for simulation purposes). | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-Trivy-kind |
 | Azure DevOps pipeline demonstrating the use of the KICS tool to scan for vulnerabilities in Terraform scripts (creating a cluster based on AKS - Azure Kubernetes Service). | 2025-03-27 | https://github.com/renatogroffe/AzureDevOps-KICS-Terraform-AKS |
