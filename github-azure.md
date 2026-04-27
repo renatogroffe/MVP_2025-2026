@@ -10,6 +10,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Console App created in .NET 9 for testing with Azurite + Azure Queue Storage using the Testcontainers project. | 2025-05-06 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azurite-queue |
 | Azure DevOps pipeline demonstrating the use of the Popeye tool for vulnerability scanning in a Kubernetes cluster generated via the kind utility. Includes report generation in HTML and JUnit (.xml) format. | 2025-05-02 | https://github.com/renatogroffe/AzureDevOps-Popeye-Kubernetes-kind |
 | Content about OpenTelemetry from a presentation given during the April 2025 edition of DevOps Experience. | 2025-04-24 | https://github.com/renatogroffe/OpenTelemetry_DevOpsExperience-2025-04 |
 | Docker Compose script for setting up an environment to collect traces from applications that use Elastic APM (via OpenTelemetry libraries), as well as MySQL and PostgreSQL databases. | 2025-04-24 | https://github.com/renatogroffe/otel-elasticapm-postgres-mysql_distributed-tracing |
