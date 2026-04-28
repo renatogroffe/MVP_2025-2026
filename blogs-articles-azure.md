@@ -17,6 +17,7 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
+| Monitoring application communication via RabbitMQ: how does OpenTelemetry achieve this? | 2026-02-14 | LinkedIn post demonstrating the implementation of distributed tracing for applications that use RabbitMQ messaging, employing packages integrated into the OpenTelemetry project.<br/>Technologies and topics covered: OpenTelemetry, RabbitMQ, Kubernetes, .NET, ASP.NET Core, C#, Docker, Docker Compose, Grafana, Grafana Tempo... | https://www.linkedin.com/posts/renatogroffe_rabbitmq-opentelemetry-dotnet-activity-7428483160721657858-jtk5/ |
 | Grafana Loki + OpenTelemetry: an example of how to collect logs in applications | 2026-02-09 | This LinkedIn post discusses the use of Grafana Loki as a solution for collecting application logs via OpenTelemetry, also highlighting the possibility of using Docker Compose to create a test environment without complications.<br/>Technologies used: Grafana, OpenTelemetry, Kubernetes, .NET, ASP.NET Core, C#, Docker, Docker Compose... | https://www.linkedin.com/posts/renatogroffe_grafana-loki-logging-activity-7426700992022433792-arCi/ |
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
