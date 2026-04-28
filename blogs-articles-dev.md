@@ -16,8 +16,7 @@ The table below describes each of the articles, including links to view each con
 
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-| .NET 10 - New Features: improvements in numerical ordering of strings | 2025-03-30 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/novidades-do-net-10-melhorias-na-ordena%C3%A7%C3%A3o-num%C3%A9rica-de-strings-c86cdac4d62e |
-
+| .NET 10 - New Features: improvements in numerical ordering of strings | 2026-02-28 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development |  |
 
 xxxxxxxxxxxxxxxxx
 
