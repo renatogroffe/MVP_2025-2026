@@ -17,6 +17,13 @@ The table below describes each of the articles, including links to view each con
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
 | .NET 10 - New Features: improvements in numerical ordering of strings | 2025-03-30 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/novidades-do-net-10-melhorias-na-ordena%C3%A7%C3%A3o-num%C3%A9rica-de-strings-c86cdac4d62e |
+
+
+xxxxxxxxxxxxxxxxx
+
+| Article | Date | Description | Link |
+| ------------ | ---- | ------------ | ---- |
+| .NET 10 - New Features: improvements in numerical ordering of strings | 2025-03-30 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/novidades-do-net-10-melhorias-na-ordena%C3%A7%C3%A3o-num%C3%A9rica-de-strings-c86cdac4d62e |
 | .NET 10: First tests with Preview 1 + improvements in date handling with ISOWeek | 2025-03-01 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development | https://renatogroffe.medium.com/net-10-primeiros-testes-com-o-preview-1-melhorias-na-manipula%C3%A7%C3%A3o-de-datas-com-isoweek-b40a16d08a16 |
 | Visual Studio 2022: Simplifying searches with Code Search - .NET Conf Highlights | 2025-02-22 | ????<br/>Technologies covered: Visual Studio 2022, .NET 9, C#, ASP.NET Core | https://renatogroffe.medium.com/visual-studio-2022-simplificando-buscas-com-code-search-destaques-net-conf-7415443a433a |
 | Visual Studio 2022: Generating GitHub Permalinks - .NET Conf Highlights | 2025-01-28 | ????<br/>Technologies covered: Visual Studio 2022, .NET 9, C#, GitHub | https://renatogroffe.medium.com/visual-studio-2022-gerando-permalinks-do-github-destaques-net-conf-f17b5b298387 |
