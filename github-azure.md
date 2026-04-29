@@ -10,6 +10,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of a Console Application in .NET 9 that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a PostgreSQL database. Includes Docker Compose for creating the test environment with the data. | 2025-05-13 | https://github.com/renatogroffe/dotnet9-semantickernel-postgres_consultaprodutos |
 | Content about Testcontainers + Azure from a presentation given during a live stream on the Azure in Practice channel. | 2025-05-06 | https://github.com/renatogroffe/testcontainers-azure_2025-05 |
 | Console App created in .NET 9 for testing with Azure Service Bus + Queues using the Testcontainers project. | 2025-05-06 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azureservicebus-queue |
 | Console App created in .NET 9 for testing with Azurite + Azure Queue Storage using the Testcontainers project. | 2025-05-06 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azurite-queue |
