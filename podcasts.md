@@ -10,7 +10,9 @@ Main topics: **.NET, C#, ASP.NET Core, Software Architecture, JWT, OWASP, Micros
 
 | Episode | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
+| Software Architecture beyond the code: Roles, Decisions, Career - Café Debug Podcast #180 | 2026-01-19 | Participation in the Café Debug podcast, addressing issues such as the role of a Software Architect in an organization, decision-making, and career advice.<br/>Topics and technologies covered: Software Development, Software Architecture, Solutions Architecture, Containers, Cloud Native, Cloud Computing, Docker, Kubernetes, OpenTelemetry, .NET, Java, DevOps, Cybersecurity... | https://open.spotify.com/episode/3p8m0NZ13POEWnmHUUWmFb |
 | Application Monitoring and Observability - Papo Pro ACBr - Podcast on Spotify | 2026-01-16 | Participation in a podcast discussing the implementation of monitoring and observability in applications, including the support of cloud services and containerized solutions for the adoption of these practices. This was an initiative promoted by the ACBr community and focused on the Brazilian IT audience.<br/>Technologies and topics covered: Monitoring, Observability, Logs, Metrics, Traces, Distributed Tracing, OpenTelemetry, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Grafana Alloy, Azure Monitor, Application Insights, Azure Log Analytics, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Docker, Containers, Docker, Kubernetes, Linux, Windows, .NET, Delphi, Java, Node.js, Python... | https://open.spotify.com/episode/3Ds5bE27P57m3wUvIOslXf |
+
 
 
 
