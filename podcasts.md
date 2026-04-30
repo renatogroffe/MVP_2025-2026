@@ -10,6 +10,14 @@ Main topics: **.NET, C#, ASP.NET Core, Software Architecture, JWT, OWASP, Micros
 
 | Episode | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
+| Application Monitoring and Observability - Papo Pro ACBr - Podcast on Spotify | 2026-01-16 | Participation in a podcast discussing the implementation of monitoring and observability in applications, including the support of cloud services and containerized solutions for the adoption of these practices. This was an initiative promoted by the ACBr community and focused on the Brazilian IT audience.<br/>Technologies and topics covered: Monitoring, Observability, Logs, Metrics, Traces, Distributed Tracing, OpenTelemetry, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Grafana Alloy, Azure Monitor, Application Insights, Azure Log Analytics, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Docker, Containers, Docker, Kubernetes, Linux, Windows, .NET, Delphi, Java, Node.js, Python... | https://open.spotify.com/episode/3Ds5bE27P57m3wUvIOslXf |
+
+
+
+xxxxxxxxxxxxxxxxxxxx
+
+| Episode | Date | Description | Link |
+| ------------| ---- | ------------ | ---- |
 | DevShow #54 - Refactoring Legacy Software: How to Get Started? | 2025-03-05 | Participation in the DevShow channel podcast discussing techniques to facilitate the migration of legacy software to market-recommended stacks and standards.<br/>Technologies covered: .NET, C#, ASP.NET Core, Software Architecture, Developer Tools, Developer Security, Microsoft Azure | https://devshow.com.br/episode/devshow-54-refatoracao-softwares-legados/ |
 | Papo Pro ACBr - Understanding what containers are and working with them | 2025-02-07 | Participation in a podcast discussing the use of containers and Docker in technology projects, tips, best practices and cloud services supporting containerized applications.<br/>Technologies covered: Docker, Kubernetes, Azure Kubernetes Service, Azure Container Apps, Azure App Service, Grafana, Prometheus, Azure Monitor, .NET, ASP.NET Core... | https://open.spotify.com/episode/5OVA7T51jx8SPOBguUFUAS?si=01356a7c995643d3&nd=1&dlsi=3e1c034c80dc4d1e |
 | DevShow #53 - Good Practices in Software Development: Why? | 2024-11-20 | Participation in the DevShow channel podcast discussing the importance of good practices in software development.<br/>Topics covered: .NET, C#, ASP.NET Core, Software Architecture, Developer Security, Web Development, Microsoft Azure | https://devshow.com.br/episode/devshow-53-boas-praticas-no-desenvolvimento-de-software/ |
