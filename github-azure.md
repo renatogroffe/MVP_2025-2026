@@ -10,6 +10,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of using OpenTelemetry + Grafana + Alloy + Tempo + Loki with .NET 9, ASP.NET Core, and PostgreSQL in an access counting API. This application demonstrates the implementation of distributed tracing + logging via the Grafana stack, with the test environment being created using Docker Compose. | 2025-05-23 | https://github.com/renatogroffe/dotnet9-postgres-otel-grafana-alloy_apicontagem |
 | Repository with resources for implementing Observability in applications that use AI resources. Includes a list of examples using OpenTelemetry + Docker Compose + Semantic Kernel + .NET 9 + Azure OpenAI + Ollama + PostgreSQL. | 2025-05-21 | https://github.com/renatogroffe/opentelemetry-ias |
 | Content about Container Security from a presentation given on May 17, 2025 at the Escola SENAI Suíço-Brasileira. | 2025-05-17 | https://github.com/renatogroffe/seguranca-containers_senai-2025-05 |
 | Azure DevOps pipeline demonstrating the use of the Kubescape tool for vulnerability scanning in a Kubernetes cluster generated via the kind utility. Includes report generation in HTML format. | 2025-05-17 | https://github.com/renatogroffe/azuredevops-kubescape-kubernetes-kind |
