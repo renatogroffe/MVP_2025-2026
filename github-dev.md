@@ -16,6 +16,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=8&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Azure DevOps pipeline demonstrating the use of C# with scripts + Docker in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker |
 | Pipeline demonstrating the use of C# with scripts in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azpipeline |
 | Example of implementing and using a Middleware as a Filter in a Controller of a REST API for counting accesses created with .NET 9 + ASP.NET Core. The middleware expects to receive a Header containing a valid access key. It involves resolving dependencies via Keyed Services + the middleware's Invoke method. | 2025-06-04 | https://github.com/renatogroffe/aspnetcore9-middlewarefilter-invoke-di-keyed_apicontagem |
 | Example of implementing and using a Middleware as a Filter in a Controller of a REST API for counting accesses created with .NET 9 + ASP.NET Core. The middleware expects to receive a Header containing a valid access key. It involves resolving dependencies via the middleware's Invoke method. | 2025-06-04 | https://github.com/renatogroffe/aspnetcore9-middlewarefilter-invoke-di_apicontagem |
