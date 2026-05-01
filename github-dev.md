@@ -16,6 +16,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=8&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Example of an Azure Pipelines pipeline in a macOS environment for building a React Native app on Android using the .aab (Android App Bundles) format. | 2025-05-14 | https://github.com/renatogroffe/azuredevops-reactnative-androidappbuild-build |
 | Example of an Azure DevOps pipeline in a macOS environment for building a React Native app on Android. It also includes the use of a MobSF service container to detect vulnerabilities in the .apk file generated during the build. | 2025-05-06 | https://github.com/renatogroffe/azurepipelines-reactnative-android-build-mobsf |
 | Azure DevOps pipeline using BenchmarkDotNet to evaluate the performance of adding records to a test application that uses Dapper, ADO, and Entity Framework Core. | 2025-04-15 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Postgres |
 | Example of a .NET 9 implementation (Console App) of benchmarking with tests comparing the performance of Dapper, ADO.NET, and Entity Framework Core in inserting data into PostgreSQL, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2025-04-15 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-Postgres-Dapper-EFCore-ADO |
