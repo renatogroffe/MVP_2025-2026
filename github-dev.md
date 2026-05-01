@@ -17,6 +17,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=8&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example of implementing and using a Middleware as a Filter in a Controller of a REST API for counting accesses created with .NET 9 + ASP.NET Core. The middleware expects to receive a Header containing a valid access key. It involves resolving dependencies via Keyed Services + the middleware's Invoke method. | 2025-06-04 | https://github.com/renatogroffe/aspnetcore9-middlewarefilter-invoke-di-keyed_apicontagem |
+| Example of implementing and using a Middleware as a Filter in a Controller of a REST API for counting accesses created with .NET 9 + ASP.NET Core. The middleware expects to receive a Header containing a valid access key. It involves resolving dependencies via the middleware's Invoke method. | 2025-06-04 | https://github.com/renatogroffe/aspnetcore9-middlewarefilter-invoke-di_apicontagem |
 | xxxxxxxxxxxxxxx | xxxxxxxxxxxxx | xxxxxxxxxxxxx |
 | Example of an Azure DevOps pipeline in a macOS environment for building a Flutter app on iOS. It also includes the use of a MobSF service container to detect vulnerabilities in the .ipa file generated during the build. | 2025-05-14 | https://github.com/renatogroffe/azurepipelines-flutter-ios-build-mobsf |
 | Example of an Azure Pipelines pipeline in a macOS environment for building a React Native app on Android using the .aab (Android App Bundles) format. | 2025-05-14 | https://github.com/renatogroffe/azuredevops-reactnative-androidappbuild-build |
