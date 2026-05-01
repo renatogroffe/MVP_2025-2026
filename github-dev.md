@@ -11,11 +11,17 @@ Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, 
 The table below describes each of the projects, including links to view each of these examples.
 
 
-COMEÇAR EM: https://github.com/renatogroffe?page=8&tab=repositories
+COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+
+
+
 | Console App created with .NET 10 + C# 14 demonstrating the use of the unbound generic support functionality for nameof. | 2025-06-17 | https://github.com/renatogroffe/dotnet10-csharp14-nameof-generics |
 | Azure DevOps pipeline demonstrating the use of C# with scripts + Docker in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker |
 | Pipeline demonstrating the use of C# with scripts in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azpipeline |
@@ -33,6 +39,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=8&tab=repositories
 | Example of an Azure DevOps pipeline in a macOS environment for building a Flutter app on iOS. It also includes the use of a MobSF service container to detect vulnerabilities in the .ipa file generated during the build. | 2025-05-14 | https://github.com/renatogroffe/azurepipelines-flutter-ios-build-mobsf |
 | Example of an Azure Pipelines pipeline in a macOS environment for building a React Native app on Android using the .aab (Android App Bundles) format. | 2025-05-14 | https://github.com/renatogroffe/azuredevops-reactnative-androidappbuild-build |
 | Example of an Azure DevOps pipeline in a macOS environment for building a React Native app on Android. It also includes the use of a MobSF service container to detect vulnerabilities in the .apk file generated during the build. | 2025-05-06 | https://github.com/renatogroffe/azurepipelines-reactnative-android-build-mobsf |
+| Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) + PostgreSQL + MySQL. Includes the use of Docker Compose to set up an environment that uses the Jaeger project and the OpenTelemetry Collector service. | 2025-04-24 | https://github.com/renatogroffe/aspnetcore9-otel-jaeger-postgres-mysql_apicontagem |
 | Azure DevOps pipeline using BenchmarkDotNet to evaluate the performance of adding records to a test application that uses Dapper, ADO, and Entity Framework Core. | 2025-04-15 | https://github.com/renatogroffe/AzureDevOps-DotNet9-BenchmarkDotNet-Postgres |
 | Example of a .NET 9 implementation (Console App) of benchmarking with tests comparing the performance of Dapper, ADO.NET, and Entity Framework Core in inserting data into PostgreSQL, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2025-04-15 | https://github.com/renatogroffe/DotNet9-BenchmarkDotNet-Tests-InputData-Postgres-Dapper-EFCore-ADO |
 | Content about new .NET 10 features used during a presentation in April 2025. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-2025-04 |
