@@ -10,6 +10,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Presentation on the use of OpenTelemetry + Grafana in application monitoring. Lecture given during the May 2025 edition of the DevOps Experience event. | 2025-05-29 | https://github.com/renatogroffe/opentelemetry-grafana_devops-experience-2025-05 |
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Grafana + OpenTelemetry, consuming REST APIs (one of which depends on PostgreSQL + MySQL databases). Includes the use of Docker Compose to set up an environment that uses the Grafana stack, including the Grafana Alloy service (based on OTLP). | 2025-05-27 | https://github.com/renatogroffe/java-spring-camel-otel-grafana-alloy-postgres-mysql_consumoapis |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Grafana + OpenTelemetry + PostgreSQL + MySQL. Includes the use of Docker Compose to set up an environment that uses the Grafana stack, including the Grafana Alloy service (based on OTLP). | 2025-05-27 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-alloy-postgres-mysql_apicontagem |
 | Content about SAST (Static Application Security Testing) and DAST (Dynamic Application Security Testing) from a presentation given on May 24, 2025. | 2025-05-24 | https://github.com/renatogroffe/sast-dast_campinasdotnet-2025-05 |
