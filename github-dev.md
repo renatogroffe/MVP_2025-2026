@@ -40,6 +40,10 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | Example in .NET 10 of a Console Application that makes use of Null-conditional assignment. | 2025-04-11 | https://github.com/renatogroffe/DotNet10-ConsoleApp-NullConditionalAssignment |
 | Content on API security, presenting vulnerabilities from the OWASP API Top 10. It also includes best security practices for implementing Docker container-based solutions. | 2025-04-04 | https://github.com/renatogroffe/OWASP-APITop10_Joinville-2025-04 |
 
+
+
+
+
 xxxxxxxxxx
 
 
