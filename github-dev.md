@@ -16,12 +16,6 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
-
-
-
-
 | Console App created with .NET 10 + C# 14 demonstrating the use of the unbound generic support functionality for nameof. | 2025-06-17 | https://github.com/renatogroffe/dotnet10-csharp14-nameof-generics |
 | Azure DevOps pipeline demonstrating the use of C# with scripts + Docker in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker |
 | Pipeline demonstrating the use of C# with scripts in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azpipeline |
