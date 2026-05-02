@@ -13,6 +13,11 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 
+
+|  Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana + SQL Server + PostgreSQL + MySQL. Contém referências para o uso de Docker Compose na subida de ambiente que faz uso do serviço OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-sqlserver-postgres-mysql_apicontagem |
+
+
+
 |  Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana e consumindo APIs REST (uma destas depende de bases SQL Server + PostgreSQL + MySQL). Contém referências para o uso de Docker Compose em ambientes que dependam do OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis |
 
 
