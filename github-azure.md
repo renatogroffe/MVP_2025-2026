@@ -11,10 +11,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a MySQL database. Includes Docker Compose for creating the test environment with the data + monitoring with Application Insights/Azure Monitor. | 2025-06-28 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-otel-azureappinsights_consultaprodutos |
-
-
-
-| Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso da stack Grafana, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL. | 2025-06-25 | https://github.com/renatogroffe/otel-grafana-sqlserver-postgres-mysql_distributed-tracing |
+| Docker Compose script for setting up an environment to collect traces from applications that use the Grafana stack, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-grafana-sqlserver-postgres-mysql_distributed-tracing |
 
 
 
