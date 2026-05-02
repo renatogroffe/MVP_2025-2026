@@ -19,7 +19,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 
 
-| ------------ | ---- | ---- |
+|  Conteúdos de apresentação sobre novos recursos do .NET 10. | Tecnologias cobertas nos exemplos: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps. | 2025-06-24 | https://github.com/renatogroffe/dotnet10-2025-06 |
 
 
 
