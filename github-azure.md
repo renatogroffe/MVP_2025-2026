@@ -13,6 +13,15 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 
+|  Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana e consumindo APIs REST (uma destas depende de bases SQL Server + PostgreSQL + MySQL). Contém referências para o uso de Docker Compose em ambientes que dependam do OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis |
+
+
+
+| Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso do projeto Jaeger, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL | 2025-06-25 | https://github.com/renatogroffe/otel-jaeger-sqlserver-postgres-mysql_distributed-tracing |
+
+
+
+
 |  Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso do projeto Zipkin, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL. | 2025-06-25 | https://github.com/renatogroffe/otel-zipkin-sqlserver-postgres-mysql_distributed-tracing |
 
 
