@@ -10,6 +10,12 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+|  Testes com Azure MCP Server durante o mês de Junho-2026. Envolve o uso de containers (build + publish no Docker Hub, Docker Compose para testes com VS Code). | 2025-06-23 | https://github.com/renatogroffe/azure-mcp-2025 |
+
+
+| xxxx | xxxx | xxxx |
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) and consuming REST APIs (one of which depends on PostgreSQL + MySQL databases). Includes a Docker Compose environment that uses solutions like Jaeger + configurations for execution via VS Code. | 2025-06-21 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-jaeger-postgres-mysql_consumoapis |
 | Content about performing security analyses on Kubernetes clusters. | 2025-06-11 | https://github.com/renatogroffe/kubernetes-security_2025-06 |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a SQL Server database. Includes Docker Compose for creating the test environment with the data + monitoring with Elastic APM and OpenTelemetry. | 2025-06-07 | https://github.com/renatogroffe/dotnet9-semantickernel-sqlserver-otel-elasticapm_consultaprodutos |
