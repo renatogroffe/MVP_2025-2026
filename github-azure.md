@@ -12,6 +12,8 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | ------------ | ---- | ---- |
 
 
+| ------------ | ---- | ---- |
+
 |  Testes com Azure MCP Server durante o mês de Junho-2026. Envolve o uso de containers (build + publish no Docker Hub, Docker Compose para testes com VS Code). | 2025-06-23 | https://github.com/renatogroffe/azure-mcp-2025 |
 
 
