@@ -15,17 +15,7 @@ The following links describe each of these talks, including links with informati
 
 | Event | Date | Participants | Description | Link | 
 | ------------ | ---- | ------------ | ---- | ---- |
-
-
-
-
-
-| Azure Managed Grafana: cloud monitoring with efficiency and flexibility - Grafana Weekend - São Paulo-SP | 2026-03-21 | 50 | ---- | https://github.com/renatogroffe/grafana-weekend-2026-03/blob/main/README-en.md |
-
-
-<br/>Technologies and topics covered: Microsoft Azure, Grafana, Azure Managed Grafana, Microsoft Entra ID, Kubernetes, Prometheus, Azure Kubernetes Service, OpenTelemetry, Azure App Service, Azure Container Apps, Microsoft Foundry, Observability, Monitoring, DevOps, DevSecOps...
-
-
+| Azure Managed Grafana: cloud monitoring with efficiency and flexibility - Grafana Weekend - São Paulo-SP | 2026-03-21 | 50 | Presentation covering the use of Azure Managed Grafana in monitoring containerized solutions and cloud resources. Lecture given during Grafana Weekend, an event that took place in the city of São Paulo-SP - Brazil.<br/>Technologies and topics covered: Microsoft Azure, Grafana, Azure Managed Grafana, Microsoft Entra ID, Kubernetes, Prometheus, Azure Kubernetes Service, OpenTelemetry, Azure App Service, Azure Container Apps, Microsoft Foundry, Observability, Monitoring, DevOps, DevSecOps... | https://github.com/renatogroffe/grafana-weekend-2026-03/blob/main/README-en.md |
 | Application Monitoring and Observability - Papo Pro ACBr | 2026-01-13 | 78 | Presentation covering the implementation of application monitoring and observability, with emphasis on the use of containerized and open source technologies. Lecture held during another edition of Papo Pro ACBr, an online event promoted by the ACBr community and focused on the Brazilian IT audience.<br/>Technologies and topics covered: Monitoring, Observability, Azure Monitor, Application Insights, Azure Log Analytics, Logs, Metrics, Traces, Distributed Tracing, OpenTelemetry, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Grafana Alloy, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Docker, Containers, Kubernetes, Linux, Windows, .NET, Delphi, Java, Node.js, Python... | https://github.com/renatogroffe/monitoramento-observabilidade_papo-pro-acbr-2026-01#informa%C3%A7%C3%B5es-sobre-o-evento |
 | Detecting Vulnerabilities in Applications: implementing SAST and DAST tests in practice! - DEVPIRA Festival 2025 | 2025-12-06 | 40 | Presentation covering the implementation of security in applications, whether at the code level (SAST) or with the solution running (DAST). Lecture given during DEVPIRA Festival 2025, an event that took place in the city of Piracicaba-SP - Brazil.<br/>Technologies and topics covered: Docker, Kubernetes, Linux, GitHub Actions, .NET, Checkov, KICS, Gitleaks, Docker Scout, SAST, DAST, Cybersecurity, APIsec scanner... | https://github.com/renatogroffe/sast-dast_devpira-festival-2025#informa%C3%A7%C3%B5es-sobre-o-evento |
 | Container Security: best practices, tools, points to consider... - MVP Conf Brasil 2025 São Paulo-SP | 2025-10-25 | 16 | Presentation covering tools and practices for the safe use of containers and Kubernetes. Lecture given during MVP Conf Brasil 2025, an event that took place in the city of São Paulo-SP and organized by the community of Brazilian Microsoft MVPs.<br/>Technologies and topics covered: Containers, Docker, Kubernetes, Azure DevOps, GitHub Actions, Azure Kubernetes Service, Azure Container Apps, kind, Linux, .NET, ASP.NET Core, NuGet, npm, pip, Python, Docker Scout, Checkov, KICS, Kor, Gitleaks, Popeye, Kubescape... | https://github.com/renatogroffe/seguranca-containers_mvpconf2025#informa%C3%A7%C3%B5es-sobre-o-evento |
