@@ -12,7 +12,11 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | ------------ | ---- | ---- |
 
 
+
 | ------------ | ---- | ---- |
+
+
+|  Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) + PostgreSQL + MySQL. Contém referências para o uso de Docker Compose na subida de ambiente que faz uso do serviço OpenTelemetry Collector e de soluções como Jaeger, Zipkin e Elastic APM. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-sqlserver-postgres-mysql_apicontagem |
 
 
 
