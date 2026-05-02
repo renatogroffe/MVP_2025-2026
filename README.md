@@ -1,4 +1,7 @@
 # MVP_2025-2026
+
+COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
+
 Activities I carried out as Microsoft MVP in the period 2025-2026. | Atividades que realizei como Microsoft MVP no período 2025-2026.
 
 Extrair data: https://trevorfox.com/linkedin-post-date-extractor.html
