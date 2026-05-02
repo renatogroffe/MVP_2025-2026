@@ -16,16 +16,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry + Grafana and consuming REST APIs (one of which depends on SQL Server + PostgreSQL + MySQL databases). Contains references for the use of Docker Compose in environments that depend on OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis |
 | Docker Compose script for setting up an environment to collect traces from applications that use the Jaeger project, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-jaeger-sqlserver-postgres-mysql_distributed-tracing |
 | Docker Compose script for setting up an environment to collect traces from applications that use the Zipkin project, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-zipkin-sqlserver-postgres-mysql_distributed-tracing |
-
-
-
-
-|  Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) e consumindo APIs REST (uma destas depende de bases SQL Server + PostgreSQL + MySQL). Contém referências para o uso de Docker Compose em ambientes que dependam do OpenTelemetry Collector. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-sqlserver-postgres-mysql_consumoapis |
-
-
-
-
-
+| Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) and consuming REST APIs (one of which depends on SQL Server + PostgreSQL + MySQL databases). Contains references for using Docker Compose in environments that depend on the OpenTelemetry Collector. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-sqlserver-postgres-mysql_consumoapis |
 | Example of a REST API created with Python and using Distributed Tracing with OpenTelemetry (configuring the Collector port) and consuming a REST API that depends on SQL Server + PostgreSQL + MySQL. Contains references for using Docker Compose in environments that depend on the OpenTelemetry Collector and solutions such as Jaeger, Zipkin, and Elastic APM. | 2025-06-25 | https://github.com/renatogroffe/python-otel_apiconsumocontagem |
 
 
@@ -36,7 +27,6 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 |  Testes com Azure MCP Server durante o mês de Junho-2026. Envolve o uso de containers (build + publish no Docker Hub, Docker Compose para testes com VS Code). | 2025-06-23 | https://github.com/renatogroffe/azure-mcp-2025 |
 
 
-| xxxx | xxxx | xxxx |
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) and consuming REST APIs (one of which depends on PostgreSQL + MySQL databases). Includes a Docker Compose environment that uses solutions like Jaeger + configurations for execution via VS Code. | 2025-06-21 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-jaeger-postgres-mysql_consumoapis |
 | Content about performing security analyses on Kubernetes clusters. | 2025-06-11 | https://github.com/renatogroffe/kubernetes-security_2025-06 |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a SQL Server database. Includes Docker Compose for creating the test environment with the data + monitoring with Elastic APM and OpenTelemetry. | 2025-06-07 | https://github.com/renatogroffe/dotnet9-semantickernel-sqlserver-otel-elasticapm_consultaprodutos |
