@@ -18,6 +18,15 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | ------------ | ---- | ---- |
 
 
+
+| ------------ | ---- | ---- |
+
+
+
+| Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 10 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do novo suporte a validações para Minimal APIs. | 2025-06-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas |
+
+
+
 |  Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 9 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do FluentValidation para validações. | 2025-06-23 | https://github.com/renatogroffe/aspnetcore9-minimalapis-fluentvalidation-scalar_cadastropessoas |
 
 
