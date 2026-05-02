@@ -13,6 +13,9 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 
+| Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso da stack Grafana, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL. | 2025-06-25 | https://github.com/renatogroffe/otel-grafana-sqlserver-postgres-mysql_distributed-tracing |
+
+
 
 |  Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana + SQL Server + PostgreSQL + MySQL. Contém referências para o uso de Docker Compose na subida de ambiente que faz uso do serviço OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-sqlserver-postgres-mysql_apicontagem |
 
