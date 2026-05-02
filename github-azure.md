@@ -12,23 +12,10 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | ------------ | ---- | ---- |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a MySQL database. Includes Docker Compose for creating the test environment with the data + monitoring with Application Insights/Azure Monitor. | 2025-06-28 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-otel-azureappinsights_consultaprodutos |
 | Docker Compose script for setting up an environment to collect traces from applications that use the Grafana stack, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-grafana-sqlserver-postgres-mysql_distributed-tracing |
-
-
-
-|  Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana + SQL Server + PostgreSQL + MySQL. Contém referências para o uso de Docker Compose na subida de ambiente que faz uso do serviço OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-sqlserver-postgres-mysql_apicontagem |
-
-
-
-|  Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana e consumindo APIs REST (uma destas depende de bases SQL Server + PostgreSQL + MySQL). Contém referências para o uso de Docker Compose em ambientes que dependam do OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis |
-
-
-
-| Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso do projeto Jaeger, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL | 2025-06-25 | https://github.com/renatogroffe/otel-jaeger-sqlserver-postgres-mysql_distributed-tracing |
-
-
-
-
-|  Script do Docker Compose para a subida de ambiente para a coleta de traces de aplicações que fazem uso do projeto Zipkin, do OpenTelemetry Collector, além de bases SQL Server, MySQL e PostgreSQL. | 2025-06-25 | https://github.com/renatogroffe/otel-zipkin-sqlserver-postgres-mysql_distributed-tracing |
+| Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Grafana + SQL Server + PostgreSQL + MySQL. Contains references for using Docker Compose to set up an environment that uses the OpenTelemetry + Grafana Alloy service. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-sqlserver-postgres-mysql_apicontagem |
+| Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry + Grafana and consuming REST APIs (one of which depends on SQL Server + PostgreSQL + MySQL databases). Contains references for the use of Docker Compose in environments that depend on OpenTelemetry + Grafana Alloy. | 2025-06-25 | https://github.com/renatogroffe/java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis |
+| Docker Compose script for setting up an environment to collect traces from applications that use the Jaeger project, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-jaeger-sqlserver-postgres-mysql_distributed-tracing |
+| Docker Compose script for setting up an environment to collect traces from applications that use the Zipkin project, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-zipkin-sqlserver-postgres-mysql_distributed-tracing |
 
 
 
