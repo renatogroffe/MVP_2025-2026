@@ -43,7 +43,6 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 
-| Exemplo de API REST criada com o Node.js e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) e consumindo uma API REST que depende de bases PostgreSQL + MySQL. Inclui o uso de Docker Compose para a subida de ambiente que faz uso do projeto Jaeger e do serviço OpenTelemetry Collector. | 2025-04-24 | https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes |
 
 
 | Example of a REST API created with Python and using Distributed Tracing with OpenTelemetry (configuring the Collector port) and consuming a REST API that depends on SQL Server + PostgreSQL + MySQL. Contains references for using Docker Compose in environments that depend on the OpenTelemetry Collector and solutions such as Jaeger, Zipkin, and Elastic APM. | 2025-06-25 | https://github.com/renatogroffe/python-otel_apiconsumocontagem |
@@ -82,6 +81,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Console App created in .NET 9 for testing with Azure Service Bus + Queues using the Testcontainers project. | 2025-05-06 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azureservicebus-queue |
 | Console App created in .NET 9 for testing with Azurite + Azure Queue Storage using the Testcontainers project. | 2025-05-06 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azurite-queue |
 | Azure DevOps pipeline demonstrating the use of the Popeye tool for vulnerability scanning in a Kubernetes cluster generated via the kind utility. Includes report generation in HTML and JUnit (.xml) format. | 2025-05-02 | https://github.com/renatogroffe/AzureDevOps-Popeye-Kubernetes-kind |
+| Example of a REST API created with Node.js using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) and consuming a REST API that depends on PostgreSQL + MySQL databases. Includes the use of Docker Compose to set up the environment that uses the Jaeger project and the OpenTelemetry Collector service. | 2025-04-24 | https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes |
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Jaeger + OpenTelemetry (configuring the Collector port) and consuming REST APIs (one of which depends on PostgreSQL + MySQL databases). Includes the use of Docker Compose for setting up an environment that uses the Jaeger project and the OpenTelemetry Collector. | 2025-04-24 | https://github.com/renatogroffe/java-spring-camel-otel-jaeger-postgres-mysql_consumoapis |
 | Docker Compose script for setting up an environment to collect traces from applications that use the Zipkin project, OpenTelemetry Collector, and MySQL and PostgreSQL databases. | 2025-04-24 | https://github.com/renatogroffe/otel-zipkin-postgres-mysql_distributed-tracing |
 | Content about OpenTelemetry from a presentation given during the April 2025 edition of DevOps Experience. | 2025-04-24 | https://github.com/renatogroffe/OpenTelemetry_DevOpsExperience-2025-04 |
