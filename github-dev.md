@@ -16,6 +16,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Study plans for people who intend to enter the IT field or even update their knowledge in certain areas... C#, .NET, Azure, Containers and more! | 2025-06-26 | https://github.com/renatogroffe/estudos-ti-2025-06 |
 | Presentation content about new features of .NET 10. Technologies covered in the examples: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps. | 2025-06-24 | https://github.com/renatogroffe/dotnet10-2025-06 |
 | Example of a REST API for registering people (and their companies) created with .NET 10 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and the new validation support for Minimal APIs. | 2025-06-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas |
 |  Example of a REST API for registering people (and their companies) created with .NET 9 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and FluentValidation for validations. | 2025-06-23 | https://github.com/renatogroffe/aspnetcore9-minimalapis-fluentvalidation-scalar_cadastropessoas |
