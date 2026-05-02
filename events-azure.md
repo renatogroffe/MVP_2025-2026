@@ -20,10 +20,10 @@ The following links describe each of these talks, including links with informati
 
 
 
-| Azure Managed Grafana: cloud monitoring with efficiency and flexibility - Grafana Weekend - São Paulo-SP | 2026-03-21 | ------------ | ---- | https://github.com/renatogroffe/grafana-weekend-2026-03/blob/main/README-en.md |
+| Azure Managed Grafana: cloud monitoring with efficiency and flexibility - Grafana Weekend - São Paulo-SP | 2026-03-21 | 50 | ---- | https://github.com/renatogroffe/grafana-weekend-2026-03/blob/main/README-en.md |
 
 
-Technologies and topics covered: Microsoft Azure, Grafana, Azure Managed Grafana, Microsoft Entra ID, Kubernetes, Prometheus, Azure Kubernetes Service, OpenTelemetry, Azure App Service, Azure Container Apps, Microsoft Foundry, Observability, Monitoring, DevOps, DevSecOps...
+<br/>Technologies and topics covered: Microsoft Azure, Grafana, Azure Managed Grafana, Microsoft Entra ID, Kubernetes, Prometheus, Azure Kubernetes Service, OpenTelemetry, Azure App Service, Azure Container Apps, Microsoft Foundry, Observability, Monitoring, DevOps, DevSecOps...
 
 
 | Application Monitoring and Observability - Papo Pro ACBr | 2026-01-13 | 78 | Presentation covering the implementation of application monitoring and observability, with emphasis on the use of containerized and open source technologies. Lecture held during another edition of Papo Pro ACBr, an online event promoted by the ACBr community and focused on the Brazilian IT audience.<br/>Technologies and topics covered: Monitoring, Observability, Azure Monitor, Application Insights, Azure Log Analytics, Logs, Metrics, Traces, Distributed Tracing, OpenTelemetry, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Grafana Alloy, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Docker, Containers, Kubernetes, Linux, Windows, .NET, Delphi, Java, Node.js, Python... | https://github.com/renatogroffe/monitoramento-observabilidade_papo-pro-acbr-2026-01#informa%C3%A7%C3%B5es-sobre-o-evento |
