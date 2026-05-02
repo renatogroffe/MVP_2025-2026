@@ -12,10 +12,12 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | ------------ | ---- | ---- |
 
 
-| ------------ | ---- | ---- |
+| Exemplo de API REST criada com o Node.js e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) e consumindo uma API REST que depende de bases PostgreSQL + MySQL. Inclui o uso de Docker Compose para a subida de ambiente que faz uso do projeto Jaeger e do serviço OpenTelemetry Collector. | 2025-04-24 | https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes |
 
 
 | Example of a REST API created with Python and using Distributed Tracing with OpenTelemetry (configuring the Collector port) and consuming a REST API that depends on SQL Server + PostgreSQL + MySQL. Contains references for using Docker Compose in environments that depend on the OpenTelemetry Collector and solutions such as Jaeger, Zipkin, and Elastic APM. | 2025-06-25 | https://github.com/renatogroffe/python-otel_apiconsumocontagem |
+
+
 |  Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) + PostgreSQL + MySQL. Contém referências para o uso de Docker Compose na subida de ambiente que faz uso do serviço OpenTelemetry Collector e de soluções como Jaeger, Zipkin e Elastic APM. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-sqlserver-postgres-mysql_apicontagem |
 
 
