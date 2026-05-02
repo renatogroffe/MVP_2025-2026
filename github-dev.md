@@ -16,25 +16,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
-
-| ------------ | ---- | ---- |
-
-
-
-|  Conteúdos de apresentação sobre novos recursos do .NET 10. | Tecnologias cobertas nos exemplos: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps. | 2025-06-24 | https://github.com/renatogroffe/dotnet10-2025-06 |
-
-
-
-| Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 10 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do novo suporte a validações para Minimal APIs. | 2025-06-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas |
-
-
-
-|  Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 9 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do FluentValidation para validações. | 2025-06-23 | https://github.com/renatogroffe/aspnetcore9-minimalapis-fluentvalidation-scalar_cadastropessoas |
-
-
-
+| Presentation content about new features of .NET 10. Technologies covered in the examples: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps. | 2025-06-24 | https://github.com/renatogroffe/dotnet10-2025-06 |
+| Example of a REST API for registering people (and their companies) created with .NET 10 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and the new validation support for Minimal APIs. | 2025-06-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas |
+|  Example of a REST API for registering people (and their companies) created with .NET 9 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and FluentValidation for validations. | 2025-06-23 | https://github.com/renatogroffe/aspnetcore9-minimalapis-fluentvalidation-scalar_cadastropessoas |
 | Console App created with .NET 10 + C# 14 demonstrating the use of the unbound generic support functionality for nameof. | 2025-06-17 | https://github.com/renatogroffe/dotnet10-csharp14-nameof-generics |
 | Azure DevOps pipeline demonstrating the use of C# with scripts + Docker in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker |
 | Pipeline demonstrating the use of C# with scripts in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azpipeline |
