@@ -2,7 +2,7 @@
 
 Number of episodes: **6**
 
-Main topics: **.NET, C#, ASP.NET Core, Software Architecture, JWT, OWASP, Microsoft Entra ID, Developer Security, Scrum, Agile...**
+Main topics: **Software Development, Software Architecture, Solutions Architecture, .NET, ASP.NET Core, C#, Web Development, Containers, Artificial Intelligence, Developer Security, Cloud Native, Cloud Computing, Docker, Kubernetes, OpenTelemetry, Java, DevOps, Cybersecurity, Monitoring, Observability, Logs, Metrics, Traces, Distributed Tracing, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Grafana Alloy, Azure Monitor, Application Insights, Azure Log Analytics, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Linux, Windows, Delphi, Node.js, Python, SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing), DevSecOps, KICS, Checkov, Docker Scout, API Gateways, OWASP, LLMs, MCP, Open Source, Microsoft Azure, GitHub Copilot, Visual Studio Code...**
 
 **First episode publisehd on April 7, 2025.**
 
