@@ -16,6 +16,12 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+|  Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 9 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do FluentValidation para validações. | 2025-06-23 | https://github.com/renatogroffe/aspnetcore9-minimalapis-fluentvalidation-scalar_cadastropessoas |
+
+
+
 | Console App created with .NET 10 + C# 14 demonstrating the use of the unbound generic support functionality for nameof. | 2025-06-17 | https://github.com/renatogroffe/dotnet10-csharp14-nameof-generics |
 | Azure DevOps pipeline demonstrating the use of C# with scripts + Docker in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker |
 | Pipeline demonstrating the use of C# with scripts in .NET 10. | 2025-06-13 | https://github.com/renatogroffe/dotnet10-scripts-azpipeline |
