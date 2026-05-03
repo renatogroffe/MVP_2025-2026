@@ -10,21 +10,8 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
-
-
-
-
-
-
-
-| Exemplo em .NET 9 de Console Application que faz uso dos projetos Semantic Kernel e Testcontainers, com integração com soluções de IA como Azure Open AI e Ollama na interação com um servidor MCP - utilizei o Azure MCP para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-07-09 | https://github.com/renatogroffe/dotnet9-testcontainers-semantickernel-otel-grafana-mcp-azure_chat |
-
-| Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI e Ollama na interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry. | 2025-07-08 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-jaeger-mcp-mslearn_chat |
-
-
-
+| This is a .NET 9 example of a Console Application that uses Semantic Kernel and Testcontainers projects, integrating with AI solutions such as Azure OpenAI and Ollama when interacting with an MCP server – Azure MCP was used for testing. It includes Docker Compose for creating the test environment with Grafana + OpenTelemetry monitoring services. | 2025-07-09 | https://github.com/renatogroffe/dotnet9-testcontainers-semantickernel-otel-grafana-mcp-azure_chat |
+| Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama in interaction with an MCP server - I used Microsoft LearnDocs MCP Server for testing. Includes Docker Compose for creating the test environment with Jaeger + OpenTelemetry monitoring services. | 2025-07-08 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-jaeger-mcp-mslearn_chat |
 | Console App created in .NET 9 for testing with Azure Event Hubs using the Testcontainers project. | 2025-07-01 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azureeventhubs |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama in interaction with an MCP server - I used Azure MCP for testing. Includes Docker Compose for creating the test environment with Grafana + OpenTelemetry monitoring services. | 2025-06-29 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-grafana-mcp-azure_chat |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a MySQL database. Includes Docker Compose for creating the test environment with the data + monitoring with Application Insights/Azure Monitor. | 2025-06-28 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-otel-azureappinsights_consultaprodutos |
