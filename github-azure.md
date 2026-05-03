@@ -16,7 +16,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 
-| Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI e Ollama na interação com um servidor MCP - utilizei o Azure MCP para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-06-29 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-grafana-mcp-azure_chat |
+
 
 
 | Exemplo em .NET 9 de Console Application que faz uso dos projetos Semantic Kernel e Testcontainers, com integração com soluções de IA como Azure Open AI e Ollama na interação com um servidor MCP - utilizei o Azure MCP para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-07-09 | https://github.com/renatogroffe/dotnet9-testcontainers-semantickernel-otel-grafana-mcp-azure_chat |
@@ -26,6 +26,7 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 
 | Console App created in .NET 9 for testing with Azure Event Hubs using the Testcontainers project. | 2025-07-01 | https://github.com/renatogroffe/dotnet9-consoleapp-testcontainers-azureeventhubs |
+| Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama in interaction with an MCP server - I used Azure MCP for testing. Includes Docker Compose for creating the test environment with Grafana + OpenTelemetry monitoring services. | 2025-06-29 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-grafana-mcp-azure_chat |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a MySQL database. Includes Docker Compose for creating the test environment with the data + monitoring with Application Insights/Azure Monitor. | 2025-06-28 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-otel-azureappinsights_consultaprodutos |
 | Docker Compose script for setting up an environment to collect traces from applications that use the Grafana stack, OpenTelemetry Collector, and SQL Server, MySQL, and PostgreSQL databases. | 2025-06-25 | https://github.com/renatogroffe/otel-grafana-sqlserver-postgres-mysql_distributed-tracing |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Grafana + SQL Server + PostgreSQL + MySQL. Contains references for using Docker Compose to set up an environment that uses the OpenTelemetry + Grafana Alloy service. | 2025-06-25 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-sqlserver-postgres-mysql_apicontagem |
