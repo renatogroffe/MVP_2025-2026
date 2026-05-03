@@ -16,6 +16,8 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+|  Example of an Azure DevOps pipeline in a macOS environment for building a Flutter app on iOS. It also includes the use of a MobSF service container (to detect vulnerabilities in the .ipa file generated during the build) and MegaLinter (for code vulnerability analysis). | 2025-07-07 | https://github.com/renatogroffe/azurepipelines-flutter-ios-build-mobsf-megalinter |
+|  Example of using the open source tool MegaLinter to analyze code and detect security issues from an Azure DevOps pipeline (with a .NET 7 application).  | 2025-07-02 | https://github.com/renatogroffe/azuredevops-megalinter-dotnet7 |
 | Study plans for people who intend to enter the IT field or even update their knowledge in certain areas... C#, .NET, Azure, Containers and more! | 2025-06-26 | https://github.com/renatogroffe/estudos-ti-2025-06 |
 | Presentation content about new features of .NET 10. Technologies covered in the examples: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps. | 2025-06-24 | https://github.com/renatogroffe/dotnet10-2025-06 |
 | Example of a REST API for registering people (and their companies) created with .NET 10 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and the new validation support for Minimal APIs. | 2025-06-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas |
