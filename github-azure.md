@@ -19,7 +19,11 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
-semantickernel-dbs_agentcon2025-sp
+
+| ------------ | ---- | ---- |
+
+
+
 
 
 | Exemplo de uso de Policies do APIM para proteger um MCP Server + consumo via Visual Studio Code. | 2026-01-10 | https://github.com/renatogroffe/mcp-apim-vscode |
@@ -91,6 +95,7 @@ semantickernel-dbs_agentcon2025-sp
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a SQL Server database. Includes Docker Compose for creating the test environment with the data + monitoring with Elastic APM and OpenTelemetry. | 2025-06-07 | https://github.com/renatogroffe/dotnet9-semantickernel-sqlserver-otel-elasticapm_consultaprodutos |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a SQL Server database. Includes Docker Compose for creating the test environment with the data + monitoring with Grafana and OpenTelemetry. | 2025-06-07 | https://github.com/renatogroffe/dotnet9-semantickernel-sqlserver-otel-grafana_consultaprodutos |
 | Example in .NET 9 of a Console Application that uses the Semantic Kernel project, with integration with AI solutions such as Azure OpenAI and Ollama to query product information from a SQL Server database. Includes Docker Compose for creating the test environment with the data + monitoring with Application Insights/Azure Monitor. | 2025-06-07 | https://github.com/renatogroffe/dotnet9-semantickernel-sqlserver-otel-azureappinsights_consultaprodutos |
+| Conteúdos sobre apresentação envolvendo o uso de Semantic Kernel. Palestra realizada durante o AgentCon 2025 em São Paulo-SP. | 2025-06-07 | https://github.com/renatogroffe/semantickernel-dbs_agentcon2025-sp |
 | Presentation on the use of OpenTelemetry + Grafana in application monitoring. Lecture given during the May 2025 edition of the DevOps Experience event. | 2025-05-29 | https://github.com/renatogroffe/opentelemetry-grafana_devops-experience-2025-05 |
 | Example of an application created with Java + Spring + Apache Camel and using Distributed Tracing with Grafana + OpenTelemetry, consuming REST APIs (one of which depends on PostgreSQL + MySQL databases). Includes the use of Docker Compose to set up an environment that uses the Grafana stack, including the Grafana Alloy service (based on OTLP). | 2025-05-27 | https://github.com/renatogroffe/java-spring-camel-otel-grafana-alloy-postgres-mysql_consumoapis |
 | Example of a REST API created with .NET 9 + ASP.NET Core and using Distributed Tracing with Grafana + OpenTelemetry + PostgreSQL + MySQL. Includes the use of Docker Compose to set up an environment that uses the Grafana stack, including the Grafana Alloy service (based on OTLP). | 2025-05-27 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-alloy-postgres-mysql_apicontagem |
