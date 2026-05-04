@@ -18,6 +18,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Conteúdos de apresentação sobre MCP realizada no dia 01/09/2025 para alunos da FIAP. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
+
+
 | Slides e conteúdos de apresentação sobre uso de .NET + MCP. Palestra realizada no dia 20/08/2025, durante o evento Potencializando Aplicações .NET com Inteligência Artificial - uma parceria entre a comunidade .NET São Paulo e a XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
 
 
