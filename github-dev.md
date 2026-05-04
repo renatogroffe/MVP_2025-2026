@@ -14,6 +14,8 @@ The table below describes each of the projects, including links to view each of 
 COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 
+
+
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Workflow do GitHub Actions para build de imagens baseadas em Docker Hardened Images (DHI). | 2025-12-23 | https://github.com/renatogroffe/githubactions-docker-hardened-images-build |
