@@ -18,6 +18,10 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Exemplo em .NET 9 de API REST criada com Minimal APIs e que faz uso de injeção de dependências com o mecanismo de KeyedServices. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-minimalapis-injdependencias |
+
+
+| Exemplos de utilização de injeção de dependências em API REST criada com o ASP.NET Core + .NET 9. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-webapi-injdependencias |
 
 
 | Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-scalar_contagemacessos-apikey |
