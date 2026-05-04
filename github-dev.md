@@ -11,7 +11,7 @@ Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, 
 The table below describes each of the projects, including links to view each of these examples.
 
 
-COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
+COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 
 | Description | Date | Link |
@@ -19,17 +19,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
 | Example of implementing load testing with k6 for PostgreSQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
 | Example of implementing load testing with k6 for MySQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines |
-
-
-| Conteúdos de apresentação sobre MCP realizada no dia 01/09/2025 para alunos da FIAP. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
-
-
-| Slides e conteúdos de apresentação sobre uso de .NET + MCP. Palestra realizada no dia 20/08/2025, durante o evento Potencializando Aplicações .NET com Inteligência Artificial - uma parceria entre a comunidade .NET São Paulo e a XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
-
-
-
-
-| Implementação em .NET 9 de MCP Server para a geração de dados fake no padrão brasileiro em bases do SQL Server. Inclui o uso da biblioteca Bogus e de um script do Docker Compose para a montagem do ambiente de testes. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
+| Presentation content about MCP given on September 1, 2025, to FIAP students. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
+| Slides and presentation content on the use of .NET + MCP. Presentation given on August 20, 2025, during the event "Potencializando Aplicações .NET com Inteligência Artificial" - a partnership between the .NET São Paulo community and XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
+| Implementation in .NET 9 of MCP Server for generating fake data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
 
 
 | Exemplo de uso do MCP do SQL Server (via dotnet tool) com um server de banco de dados containerizado e com consulta a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
