@@ -2,7 +2,11 @@
 
 Number of repositories: **86**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, KEDA, Visual Studio Code, OpenTelemetry, Grafana, Jaeger, Zipkin, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
+
+MCP, Microsoft Foundry, Azure Speech
+
+Microsoft Agent Framework, Semantic Kernel
 
 **First repository created on April 10, 2024.**
 
@@ -11,6 +15,17 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+
+| ------------ | ---- | ---- |
+
+
+
+| Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-grafana-mcp-mslearn_chat |
+
+
+
+| Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-jaeger-mcp-mslearn_chat |
 
 
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-10-07 | https://github.com/renatogroffe/dotnet9-agentframework-otel-grafana-mcp-mslearn_chat |
