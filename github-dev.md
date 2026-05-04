@@ -20,6 +20,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | ------------ | ---- | ---- |
 
 
+
+
+
 | Exemplo de implementação de testes de validação com k6 para MCP Servers e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | 2026-01-25 | https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines |
 
 
@@ -34,8 +37,6 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 
 | Exemplo de uso da ferramenta APIsec MCP Discovery and Audit em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-12 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit |
-
-
 
 
 | Workflow do GitHub Actions para build de imagens baseadas em Docker Hardened Images (DHI). | 2025-12-23 | https://github.com/renatogroffe/githubactions-docker-hardened-images-build |
