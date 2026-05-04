@@ -16,7 +16,17 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+
+
+
+
+
 | Exemplo de implementação de testes de carga com k6 para SQL Server (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-10-30 | https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines |
+|  Conteúdos da apresentação "Turbinando e descomplicando a automação de Testes de Integração com Testcontainers". | 2025-10-24 | https://github.com/renatogroffe/testcontainers_mvpconf2025 |
+| Conteúdos da apresentação "MCP + Bases Relacionais: gerenciando e explorando seus dados com Inteligência Artificial". | 2025-10-25 | https://github.com/renatogroffe/mcp-bases-relacionais_mvpconf2025 |
 | Workflow do GitHub Actions utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, PostgreSQL, Dapper, ADO e Entity Framework Core. | 2025-10-23 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-githubactions-testcontainers-postgres |
 | Conteúdos de apresentação sobre MCP realizada no dia 23/10/2025 para alunos da FIAP. | 2025-10-23 | https://github.com/renatogroffe/mcp_2025-10 |
 | Implementação em .NET 9 (Console App) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-15 | https://github.com/renatogroffe/dotnet9-consoleapp-mcp-fakedata |
