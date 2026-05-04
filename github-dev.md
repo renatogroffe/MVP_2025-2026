@@ -20,6 +20,17 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 
 
+
+
+| Workflow do GitHub Actions utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, PostgreSQL, Dapper, ADO e Entity Framework Core. | 2025-10-23 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-githubactions-testcontainers-postgres |
+
+
+
+| Conteúdos de apresentação sobre MCP realizada no dia 23/10/2025 para alunos da FIAP. | 2025-10-23 | https://github.com/renatogroffe/mcp_2025-10 |
+
+
+
+
 | Implementação em .NET 9 (Console App) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-15 | https://github.com/renatogroffe/dotnet9-consoleapp-mcp-fakedata |
 
 
