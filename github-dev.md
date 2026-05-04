@@ -18,6 +18,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Pipeline do Azure DevOps utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, PostgreSQL, Dapper, ADO e Entity Framework Core. | 2025-11-24 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-postgres |
+
+
 | Exemplo em .NET 10 + C #14 de Console Application que faz uso da palavra-chave field. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-fieldkeyword |
 
 
