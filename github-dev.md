@@ -18,6 +18,15 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Exemplo em .NET 10 + C #14 de Console Application que faz uso da palavra-chave field. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-fieldkeyword |
+
+
+| Exemplo em .NET 10 + C#14 de Console Application que faz uso Extension Methods. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-extensionmethods |
+
+
+| Exemplo em .NET 10 + C#14 de Console Application que faz uso Extension Properties. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-extensionproperties |
+
+
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Partial Events. | 2025-11-12 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-partialevents |
 
 
