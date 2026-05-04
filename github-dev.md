@@ -22,18 +22,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 | Presentation content about MCP given on September 1, 2025, to FIAP students. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
 | Slides and presentation content on the use of .NET + MCP. Presentation given on August 20, 2025, during the event "Potencializando Aplicações .NET com Inteligência Artificial" - a partnership between the .NET São Paulo community and XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
 | Implementation in .NET 9 of MCP Server for generating fake data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
-
-
-| Exemplo de uso do MCP do SQL Server (via dotnet tool) com um server de banco de dados containerizado e com consulta a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
-
-
-| Exemplo de uso do MCP do SQL Server com um server de banco de dados containerizado e consultado a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-07-28 | https://github.com/renatogroffe/sqlserver-mcp-scripts |
-
-
-| Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 10 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do novo suporte a validações para Minimal APIs (incluindo DisableValidation). | 2025-07-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas-v2 |
-
-
-
+| Example of using SQL Server MCP (via .NET tool) with a containerized database server and querying data from regions of Brazil. Includes Docker Compose for creating the test environment. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
+| Example of using SQL Server MCP with a containerized database server querying data from regions of Brazil. Includes Docker Compose for creating the test environment. | 2025-07-28 | https://github.com/renatogroffe/sqlserver-mcp-scripts |
+| Example of a REST API for registering people (and their companies) created with .NET 10 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and the new support for validations for Minimal APIs (including DisableValidation). | 2025-07-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas-v2 |
 | Instructions for testing the GitHub MCP server (from a Docker image) in Visual Studio Code. | 2025-07-14 | https://github.com/renatogroffe/github-mcp-vscode-2025-07 |
 | Example of an Azure DevOps pipeline in a macOS environment for building a Flutter app on iOS. It also includes the use of a MobSF service container (to detect vulnerabilities in the .ipa file generated during the build) and MegaLinter (for code vulnerability analysis). | 2025-07-07 | https://github.com/renatogroffe/azurepipelines-flutter-ios-build-mobsf-megalinter |
 | Example of using the open source tool MegaLinter to analyze code and detect security issues from an Azure DevOps pipeline (with a .NET 7 application). | 2025-07-02 | https://github.com/renatogroffe/azuredevops-megalinter-dotnet7 |
