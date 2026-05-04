@@ -16,27 +16,17 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
-| Exemplo em .NET 9 de API REST criada com Minimal APIs e que faz uso de injeção de dependências com o mecanismo de KeyedServices. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-minimalapis-injdependencias |
-
-
-| Exemplos de utilização de injeção de dependências em API REST criada com o ASP.NET Core + .NET 9. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-webapi-injdependencias |
-
-
+| Testes com o MCP do SQL Server + MCPs de geração de dados fake + a ferramenta dnx do .NET 10 + Docker Compose. | 2025-09-25 | https://github.com/renatogroffe/mcp-sqlserver-fakedata-dotnet10-dnx-dockercompose |
 | Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-scalar_contagemacessos-apikey |
-
-
-| Console App criada em .NET 9 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação, útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-08-29 | https://github.com/renatogroffe/dotnet9-consoleapp_job-httprequest |
-
-
-
 | Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
 | Example of implementing load testing with k6 for PostgreSQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
 | Example of implementing load testing with k6 for MySQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines |
 | Presentation content about MCP given on September 1, 2025, to FIAP students. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
+| Console App created in .NET 9 that implements a job to send HTTP requests to a generic endpoint. Includes a Dockerfile for building the application, useful for testing with Kubernetes Jobs/CronJobs and generic services. | 2025-08-29 | https://github.com/renatogroffe/dotnet9-consoleapp_job-httprequest |
 | Slides and presentation content on the use of .NET + MCP. Presentation given on August 20, 2025, during the event "Potencializando Aplicações .NET com Inteligência Artificial" - a partnership between the .NET São Paulo community and XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
 | Implementation in .NET 9 of MCP Server for generating fake data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
+| Example in .NET 9 of a REST API created with Minimal APIs that makes use of dependency injection with the KeyedServices mechanism. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-minimalapis-injdependencias |
+| Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 9. | 2025-08-13 | https://github.com/renatogroffe/aspnetcore9-webapi-injdependencias |
 | Example of using SQL Server MCP (via .NET tool) with a containerized database server and querying data from regions of Brazil. Includes Docker Compose for creating the test environment. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
 | Example of using SQL Server MCP with a containerized database server querying data from regions of Brazil. Includes Docker Compose for creating the test environment. | 2025-07-28 | https://github.com/renatogroffe/sqlserver-mcp-scripts |
 | Example of a REST API for registering people (and their companies) created with .NET 10 + Minimal APIs + ASP.NET Core. Includes the use of OpenAPI + Scalar and the new support for validations for Minimal APIs (including DisableValidation). | 2025-07-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas-v2 |
