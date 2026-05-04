@@ -8,6 +8,8 @@ MCP, Microsoft Foundry, Azure Speech
 
 Microsoft Agent Framework, Semantic Kernel
 
+Node.js, Java, Python
+
 **First repository created on April 10, 2024.**
 
 **Last repository created on March 27, 2025.**
@@ -24,10 +26,7 @@ Microsoft Agent Framework, Semantic Kernel
 
 
 | Apresentação sobre Arquitetura de Integrações realizada no dia 04/11/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial... | 2025-11-04 | https://github.com/renatogroffe/arquitetura-integracoes-2025-11 |
-
-
-
-
+| Conteúdos do Workshop "Implementando Segurança em Código na prática: de aplicações à infraestrutura com GitHub Actions!", realizado durante evento promovido pela FIAP em São Paulo-SP no dia 25/10/2025. Docker, Kubernetes, Linux, GitHub Actions, .NET, Checkov, KICS, Gitleaks, Kor... | 2025-10-25 | https://github.com/renatogroffe/workshop-seguranca-codigo_2025-10 |
 | Conteúdos da apresentação "Segurança em Containers: boas práticas, ferramentas, pontos de atenção...". | 2025-10-25 | https://github.com/renatogroffe/seguranca-containers_mvpconf2025 |
 | Conteúdos da apresentação "Governança e Segurança em APIs REST: tirando o melhor proveito de APIs Gateways!". Tópicos: API Gateways, Segurança em APIs, Cloud Computing, DevSecOps, Containers....  | 2025-10-24 | https://github.com/renatogroffe/api-gateways-governanca-seguranca_mvpconf2025 |
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base MySQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-10-23 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-testcontainers-otel-azureappinsights_consultaprodutos |
