@@ -2,11 +2,11 @@
 
 Number of talks: **14**
 
-Number of attendees (considering all talks): **1229**
+Number of attendees (considering all talks): **514**
 
-In-person attendees: **641**
+In-person attendees: **471**
 
-Online attendees: **588**
+Online attendees: **43**
 
 Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, React Native, JavaScript, Android, iOS, Microsoft Azure, Bash, PowerShell, k6, Postman, Testcontainers**
 
