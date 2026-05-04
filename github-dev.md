@@ -18,6 +18,11 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Slides e conteúdos de apresentação sobre uso de .NET + MCP. Palestra realizada no dia 20/08/2025, durante o evento Potencializando Aplicações .NET com Inteligência Artificial - uma parceria entre a comunidade .NET São Paulo e a XP Inc. | 2025-08-20 | https://github.com/renatogroffe/mcp-dotnetsp-xp_2025-08 |
+
+
+
+
 | Implementação em .NET 9 de MCP Server para a geração de dados fake no padrão brasileiro em bases do SQL Server. Inclui o uso da biblioteca Bogus e de um script do Docker Compose para a montagem do ambiente de testes. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
 
 
