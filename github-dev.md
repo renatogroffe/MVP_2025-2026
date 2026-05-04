@@ -21,6 +21,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 
 
 
+| Testes com MCP Server para MySQL (designcomputer/mysql_mcp_server), além do uso de um segundo MCP Server para geração de dados fake (imagem renatogroffe/dotnet9-consoleapp-mcp-fakedata). Inclui script do Docker Compose. | 2025-11-08 | https://github.com/renatogroffe/mcp-mysql-fakedata |
+
+
 | Exemplo de implementação de testes de carga com k6 para SQL Server (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-10-30 | https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines |
 |  Conteúdos da apresentação "Turbinando e descomplicando a automação de Testes de Integração com Testcontainers". | 2025-10-24 | https://github.com/renatogroffe/testcontainers_mvpconf2025 |
 | Conteúdos da apresentação "MCP + Bases Relacionais: gerenciando e explorando seus dados com Inteligência Artificial". | 2025-10-25 | https://github.com/renatogroffe/mcp-bases-relacionais_mvpconf2025 |
@@ -31,6 +34,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 | Implementação em ASP.NET Core + .NET 9 de MCP Server para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-07 | https://github.com/renatogroffe/aspnetcore9-mcp-fakedata |
 | Workflow do GitHub Actions utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, SQL Server 2025, Dapper, Dapper.Contrib, ADO, Stored Procedures e Entity Framework Core. | 2025-10-07 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-githubactions-testcontainers-sqlserver2025 |
 | Testes com o MCP do SQL Server + MCPs de geração de dados fake + a ferramenta dnx do .NET 10 + Docker Compose. | 2025-09-25 | https://github.com/renatogroffe/mcp-sqlserver-fakedata-dotnet10-dnx-dockercompose |
+| Example of implementing a Global Tool using .NET 9. | 2025-09-21 | https://github.com/renatogroffe/dotnet9-globaltool |
 | Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-scalar_contagemacessos-apikey |
 | Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
 | Example of implementing load testing with k6 for PostgreSQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
