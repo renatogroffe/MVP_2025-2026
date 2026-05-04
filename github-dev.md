@@ -16,6 +16,17 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+
+| Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-scalar_contagemacessos-apikey |
+
+
+| Console App criada em .NET 9 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação, útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-08-29 | https://github.com/renatogroffe/dotnet9-consoleapp_job-httprequest |
+
+
+
 | Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
 | Example of implementing load testing with k6 for PostgreSQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
 | Example of implementing load testing with k6 for MySQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines |
