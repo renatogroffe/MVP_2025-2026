@@ -11,15 +11,21 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
-| ------------ | ---- | ---- |
+
 
 
 
 | Exemplo em .NET 9 de Function App que faz uso do mecanismo nativo de injeção de dependências da plataforma .NET. | 2025-09-22 | https://github.com/renatogroffe/dotnet9-azurefunctions-injdependencias |
 
 
+| Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Zipkin + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-zipkin-postgres-mysql-redis |
+
+
+| Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Elastic APM + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-elasticapm-postgres-mysql-redis |
+
 | Apresentação sobre Arquitetura de Integrações realizada no dia 18/09/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-09-18 | https://github.com/renatogroffe/arquitetura-integracoes-2025-09 |
 
+| Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-17 | https://github.com/renatogroffe/dockercompose-opentelemetry-jaeger-postgres-mysql-redis |
 
 
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do Azure DevOps. | 2025-09-16 | https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http |
