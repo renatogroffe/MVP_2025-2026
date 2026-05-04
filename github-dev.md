@@ -11,11 +11,15 @@ Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, 
 The table below describes each of the projects, including links to view each of these examples.
 
 
-COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
+COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Console App criada em .NET 10 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação com Docker Hardened Images (DHI), útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-12-22 | https://github.com/renatogroffe/dotnet10-consoleapp-dhi_job-httprequest |
+
 
 
 | Pipeline do Azure DevOps para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-22 | https://github.com/renatogroffe/azuredevops-docker-hardened-images-comparisons |
