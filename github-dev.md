@@ -18,7 +18,13 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Exemplo em .NET 10 + C#14 de Console Application que faz uso Partial Events. | 2025-11-12 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-partialevents |
 
+
+| Exemplo em .NET 10 + C#14 de Console Application que faz uso Partial Constructors. | 2025-11-12 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-partialconstructor |
+
+
+| Exemplo em .NET 10 de Console Application que faz uso de Null-conditional assignment (inclui solution no padrão .slnx). | 2025-11-12 | https://github.com/renatogroffe/dotnet10-consoleapp-slnx-nullconditionalassignment |
 
 
 | Testes com MCP Server para MySQL (designcomputer/mysql_mcp_server), além do uso de um segundo MCP Server para geração de dados fake (imagem renatogroffe/dotnet9-consoleapp-mcp-fakedata). Inclui script do Docker Compose. | 2025-11-08 | https://github.com/renatogroffe/mcp-mysql-fakedata |
