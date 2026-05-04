@@ -19,7 +19,7 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
-
+semantickernel-dbs_agentcon2025-sp
 
 
 | Exemplo de uso de Policies do APIM para proteger um MCP Server + consumo via Visual Studio Code. | 2026-01-10 | https://github.com/renatogroffe/mcp-apim-vscode |
@@ -30,7 +30,6 @@ SQL Server, PostgreSQL, MySQL
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do GitHub Actions. | 2025-12-16 | https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http |
 | Análise em um workflow do GitHub Actions de objetos órfãos utilizando a ferramenta Kor. | 2025-12-16 | https://github.com/renatogroffe/githubactions-kor-kubernetes |
 | Exemplos de uso do projeto Reloader em Kubernetes para atualização de Pods ao modificar Secrets e ConfigMaps. | 2025-12-16 | https://github.com/renatogroffe/kubernetes-reloader-configmap-secret |
-| Slides e conteúdos de apresentação sobre Testcontainers. Palestra realizada no dia 16/12/2025, em evento para profissionais da Robbu Tecnologia. | 2025-12-16 | https://github.com/renatogroffe/testcontainers_robbu-2025-12 |
 | Exemplo de workflow do GitHub Actions com testes do tipo SAST analisando vulnerabilidades no código de uma aplicação .NET containerizida. | 2025-12-06 | https://github.com/renatogroffe/githubactions-sast-dotnet-containers |
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base PostgreSQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Grafana + OpenTelemetry. | 2025-12-01 | https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-otel-grafana_consultaprodutos |
 | Slides e conteúdos de apresentação sobre Agent Framework e Semantic Kernel. Tecnologias abordadas: Azure OpenAI, Azure AI Foundry, Docker, OpenTelemetry, Docker Compose, Kubernetes, Jaeger, Grafana, Application Insights. | 2025-11-29 | https://github.com/renatogroffe/semantic-kernel-agent-framework_escolalivreia-2025-11 |
