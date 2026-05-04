@@ -16,8 +16,11 @@ Microsoft Agent Framework, Semantic Kernel
 | ------------ | ---- | ---- |
 
 
-
 | ------------ | ---- | ---- |
+
+
+
+| Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base MySQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-10-23 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-testcontainers-otel-azureappinsights_consultaprodutos |
 
 
 
