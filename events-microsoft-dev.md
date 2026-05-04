@@ -2,7 +2,7 @@
 
 Number of talks: **9**
 
-Number of attendees (In-person, considering all talks): **207**
+Number of attendees (In-person, considering all talks): **361**
 
 Main technologies and topics: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub, GitHub Copilot, MCP, Docker, Microsoft Azure, Artificial Intelligence, LLMs, Microsoft Foundry, Microsoft Agent Framework...**
 
