@@ -4,7 +4,7 @@ Number of talks: **8**
 
 Number of attendees (In-person, considering all talks): **381**
 
-Technologies covered: **Azure Kubernetes Service (AKS), Azure API Management, Azure Monitor, Log Analytics, Application Insights, OpenTelemetry, Azure Managed Grafana, Grafana, Prometheus, Docker, Kubernetes, Azure Container Apps, Web Development, .NET, ASP.NET Core, MCP, Artificial Intelligence, Microsoft Foundry, Semantic Kernel, Microsoft Agent Framework, Foundry IQ...**
+Technologies covered: **Azure Kubernetes Service (AKS), Azure API Management, Azure App Service, Azure Monitor, Log Analytics, Application Insights, OpenTelemetry, Azure Managed Grafana, Grafana, Prometheus, Docker, Kubernetes, Azure Container Apps, Web Development, .NET, ASP.NET Core, MCP, Artificial Intelligence, Microsoft Foundry, Semantic Kernel, Microsoft Agent Framework, Foundry IQ...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
