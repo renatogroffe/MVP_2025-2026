@@ -1,12 +1,8 @@
 # Speaker at Microsoft Events - Developer Technologies
 
-Number of talks: **8**
+Number of talks: **9**
 
-Number of attendees (considering all talks): **207**
-
-In-person attendees: **144**
-
-Online attendees: **63**
+Number of attendees (In-person, considering all talks): **207**
 
 Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub Copilot, OpenAPI, Mermaid, UML, Ollama, Semantic Kernel, Microsoft Azure, OpenAI...**
 
