@@ -16,6 +16,10 @@ Microsoft Agent Framework, Semantic Kernel
 | ------------ | ---- | ---- |
 
 
+| Exemplo de implementação de testes de carga com k6 para SQL Server (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-10-30 | https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines |
+
+
+| Conteúdos da apresentação "Segurança em Containers: boas práticas, ferramentas, pontos de atenção...". | 2025-10-25 | https://github.com/renatogroffe/seguranca-containers_mvpconf2025 |
 
 
 
