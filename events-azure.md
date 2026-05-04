@@ -8,7 +8,7 @@ In-person attendees: **708**
 
 Online attendees: **252**
 
-Main technologies: **Azure Kubernetes Service (AKS), Azure API Management, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Docker Hub, MCP, Artificial Intelligence, SAST, DAST, Microsoft Foundry, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, OpenTelemetry Prometheus, Azure Monitor, Visual Studio Code, GitHub Copilot, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
+Main technologies: **Azure Kubernetes Service (AKS), Azure API Management, Azure App Service, Azure Container Registry, Azure Container Instances, Azure Container Apps, Linux, Docker, Docker Hub, MCP, Artificial Intelligence, Cybersecurity, SAST, DAST, Microsoft Foundry, Kubernetes, KEDA (Kubernetes Event-driven Autoscaling), Grafana, Azure Managed Grafana, OpenTelemetry Prometheus, Azure Monitor, Visual Studio Code, GitHub Copilot, .NET, ASP.NET Core, SQL Server, PostgreSQL, Redis, Azure DevOps, GitHub Actions...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
