@@ -16,6 +16,17 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Implementação em ASP.NET Core + .NET 9 de MCP Server para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-07 | https://github.com/renatogroffe/aspnetcore9-mcp-fakedata |
+
+
+
+| Workflow do GitHub Actions utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, SQL Server 2025, Dapper, Dapper.Contrib, ADO, Stored Procedures e Entity Framework Core. | 2025-10-07 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-githubactions-testcontainers-sqlserver2025 |
+
+
+
+
 | Testes com o MCP do SQL Server + MCPs de geração de dados fake + a ferramenta dnx do .NET 10 + Docker Compose. | 2025-09-25 | https://github.com/renatogroffe/mcp-sqlserver-fakedata-dotnet10-dnx-dockercompose |
 | Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-scalar_contagemacessos-apikey |
 | Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
