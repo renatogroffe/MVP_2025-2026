@@ -16,15 +16,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-| Implementação em .NET 9 de MCP Server para a geração de dados fake de produtos no padrão brasileiro em bases do SQL Server. Inclui o uso da biblioteca Bogus e de um script do Docker Compose para a montagem do ambiente de testes. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
-
-
-| Exemplo de implementação de testes de carga com k6 para PostgreSQL (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
-
-
-
-| Exemplo de implementação de testes de carga com k6 para MySQL (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines |
+| Implementation in .NET 9 of MCP Server for generating fake product data in the Brazilian standard in SQL Server databases. Includes the use of the Bogus library and a Docker Compose script for setting up the test environment. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
+| Example of implementing load testing with k6 for PostgreSQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
+| Example of implementing load testing with k6 for MySQL (using builds from extensions) that includes automated execution from an Azure DevOps pipeline. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines |
 
 
 | Conteúdos de apresentação sobre MCP realizada no dia 01/09/2025 para alunos da FIAP. | 2025-09-01 | https://github.com/renatogroffe/mcp_2025-09 |
