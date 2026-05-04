@@ -18,6 +18,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Implementação em .NET 9 de MCP Server para a geração de dados fake no padrão brasileiro em bases do SQL Server. Inclui o uso da biblioteca Bogus e de um script do Docker Compose para a montagem do ambiente de testes. | 2025-08-20 | https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver |
+
+
 | Exemplo de uso do MCP do SQL Server (via dotnet tool) com um server de banco de dados containerizado e com consulta a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
 
 
