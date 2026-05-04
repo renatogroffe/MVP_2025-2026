@@ -17,6 +17,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| Implementação em .NET 9 de MCP Server para a geração de dados fake de produtos no padrão brasileiro em bases do SQL Server. Inclui o uso da biblioteca Bogus e de um script do Docker Compose para a montagem do ambiente de testes. | 2025-09-03 | https://github.com/renatogroffe/dotnet9-mcp-fakedataprodutos-sqlserver |
 
 
 | Exemplo de implementação de testes de carga com k6 para PostgreSQL (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-09-03 | https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines |
