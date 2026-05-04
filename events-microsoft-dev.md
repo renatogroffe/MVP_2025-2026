@@ -4,7 +4,7 @@ Number of talks: **9**
 
 Number of attendees (In-person, considering all talks): **207**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub Copilot, OpenAPI, Mermaid, UML, Ollama, Semantic Kernel, Microsoft Azure, OpenAI...**
+Main technologies and topics: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, GitHub, GitHub Copilot, MCP, Docker, Microsoft Azure, Artificial Intelligence, LLMs, Microsoft Foundry, Microsoft Agent Framework...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
