@@ -16,32 +16,13 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
+| Workflow do GitHub Actions para build de imagens baseadas em Docker Hardened Images (DHI). | 2025-12-23 | https://github.com/renatogroffe/githubactions-docker-hardened-images-build |
 | Console App criada em .NET 10 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação com Docker Hardened Images (DHI), útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-12-22 | https://github.com/renatogroffe/dotnet10-consoleapp-dhi_job-httprequest |
-
-
-
 | Pipeline do Azure DevOps para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-22 | https://github.com/renatogroffe/azuredevops-docker-hardened-images-comparisons |
-
-
-
 | Workflow do GitHub Actions para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-21 | https://github.com/renatogroffe/githubactions-docker-hardened-images-comparisons |
-
-
-
-
 | Pipeline do Azure DevOps utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, SQL Server, Dapper, Dapper.Contrib, ADO (incluindo procedures) e Entity Framework Core. | 2025-12-16 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-sqlserver |
-
-
-
 | Console App criada em .NET 10 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação, útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-12-16 | https://github.com/renatogroffe/dotnet10-consoleapp_job-httprequest |
-
-
 | Pipeline do GitHub Actions demonstrando o uso de C# com scripts + Docker no .NET 10. | 2025-12-10 | https://github.com/renatogroffe/dotnet10-scripts-githubactions-docker |
-
-
-
 | Pipeline do Azure DevOps utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, PostgreSQL, Dapper, ADO e Entity Framework Core. | 2025-11-24 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-postgres |
 | Exemplo em .NET 10 + C #14 de Console Application que faz uso da palavra-chave field. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-fieldkeyword |
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Extension Methods. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-extensionmethods |
