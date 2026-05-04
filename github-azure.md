@@ -34,6 +34,10 @@ SQL Server, PostgreSQL, MySQL
 | Implementação em ASP.NET Core + .NET 10 de MCP Server para contagem de acessos a partir de uma instância do Redis. Inclui o uso de um script do Docker Compose para monitoramento/observabilidade com OpenTelemetry + Azure Application Insights. Inclui Dockerfile para build de imagens deste MCP Server. | 2026-01-10 | https://github.com/renatogroffe/aspnetcore10-mcp-otel-appinsights-redis_contagem |
 
 
+
+| Conteúdos sobre MCPs de apresentação realizada no dia 10/01/2026, durante a edição local do .NET Conf em Piracicaba. Tecnologias abordadas: MCP, GitHub Copilot, Docker, .NET 10, ASP.NET Core, NuGet, Microsoft Azure, Application Insights, Azure API Management, Azure Container Apps, Visual Studio Code, Grafana stack, Microsoft Foundry, k6... | 2026-01-10 | https://github.com/renatogroffe/mcp-dotnet10_devpira-2026-01 |
+
+
 | Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnologias cloud native. | 2025-12-28 | https://github.com/renatogroffe/containers-kubernetes-roadmap-2026 |
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-12-16 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-azureappinsights_consultaprodutos |
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do GitHub Actions. | 2025-12-16 | https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http |
