@@ -1,12 +1,10 @@
 # Speaker at Microsoft Events - Microsoft Azure
 
-Number of talks: **5**
+Number of talks: **8**
 
 Number of attendees (considering all talks): **166**
 
 In-person attendees: **133**
-
-Online attendees: **33**
 
 Technologies covered: **Azure Kubernetes Service (AKS), Azure API Management, Azure Monitor, Log Analytics, Application Insights, Azure Managed Grafana, Grafana, Prometheus, Docker, Kubernetes, KEDA, Azure Container Apps, Web Development, .NET, ASP.NET Core...**
 
