@@ -14,38 +14,14 @@ Microsoft Agent Framework, Semantic Kernel
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
 | Exemplo de implementação de testes de carga com k6 para SQL Server (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-10-30 | https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines |
-
-
 | Conteúdos da apresentação "Segurança em Containers: boas práticas, ferramentas, pontos de atenção...". | 2025-10-25 | https://github.com/renatogroffe/seguranca-containers_mvpconf2025 |
-
-
-
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base MySQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-10-23 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-testcontainers-otel-azureappinsights_consultaprodutos |
-
-
-
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-grafana-mcp-mslearn_chat |
-
-
-
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-jaeger-mcp-mslearn_chat |
-
-
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-10-07 | https://github.com/renatogroffe/dotnet9-agentframework-otel-grafana-mcp-mslearn_chat |
-
-
-
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry. | 2025-10-07 | https://github.com/renatogroffe/dotnet9-agentframework-otel-jaeger-mcp-mslearn_chat |
-
-
-
 | Exemplo de implementação de Console App em .NET 9 para reconhecimento de voz utilizando o serviço Azure Speech. | 2025-10-07 | https://github.com/renatogroffe/dotnet9-consoleapp-azurespeech |
-
-
-
 | Conteúdos da apresentação sobre Value Stream realizada no dia 23/09/2025. Tópicos abordados: DevOps, Value Stream Mapping, IT4IT, Docker, Kubernetes, Cloud, IA... | 2025-09-23 | https://github.com/renatogroffe/value-stream_2025-09 |
 | Exemplo em .NET 9 de Function App que faz uso do mecanismo nativo de injeção de dependências da plataforma .NET. | 2025-09-22 | https://github.com/renatogroffe/dotnet9-azurefunctions-injdependencias |
 | Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Zipkin + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-zipkin-postgres-mysql-redis |
