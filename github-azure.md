@@ -22,7 +22,7 @@ SQL Server, PostgreSQL, MySQL
 
 
 
-
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Jaeger e OpenTelemetry. | 2026-01-20 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-jaeger_consultaprodutos |
 
 
 | Exemplo de uso de Policies do APIM para proteger um MCP Server + consumo via Visual Studio Code. | 2026-01-10 | https://github.com/renatogroffe/mcp-apim-vscode |
