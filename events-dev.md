@@ -8,7 +8,7 @@ In-person attendees: **471**
 
 Online attendees: **43**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, React Native, JavaScript, Android, iOS, Microsoft Azure, Bash, PowerShell, k6, Postman, Testcontainers**
+Main technologies and topics: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, GitHub Actions, Developer Security, OWASP, JWT, Software Architecture, Artificial Intelligence, GitHub Copilot, MCP, SQL Server, PostgreSQL, Microsoft Azure, Microsoft Foundry, Linux, Bash, PowerShell, k6, Docker, Testcontainers...**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
