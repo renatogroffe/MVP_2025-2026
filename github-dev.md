@@ -18,6 +18,14 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Pipeline do Azure DevOps para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-22 | https://github.com/renatogroffe/azuredevops-docker-hardened-images-comparisons |
+
+
+
+| Workflow do GitHub Actions para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-21 | https://github.com/renatogroffe/githubactions-docker-hardened-images-comparisons |
+
+
+
 
 | Pipeline do Azure DevOps utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, SQL Server, Dapper, Dapper.Contrib, ADO (incluindo procedures) e Entity Framework Core. | 2025-12-16 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-sqlserver |
 
