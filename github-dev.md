@@ -16,32 +16,14 @@ COMEÇAR EM: https://github.com/renatogroffe?page=4&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
 | Pipeline do Azure DevOps utilizando BenchmarkDotNet para avaliar a performance na inclusão de registros + Aplicação de testes que faz uso de .NET 10, Testcontainers, PostgreSQL, Dapper, ADO e Entity Framework Core. | 2025-11-24 | https://github.com/renatogroffe/dotnet10-benchmarkdotnet-azuredevops-testcontainers-postgres |
-
-
 | Exemplo em .NET 10 + C #14 de Console Application que faz uso da palavra-chave field. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-fieldkeyword |
-
-
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Extension Methods. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-extensionmethods |
-
-
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Extension Properties. | 2025-11-18 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-extensionproperties |
-
-
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Partial Events. | 2025-11-12 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-partialevents |
-
-
 | Exemplo em .NET 10 + C#14 de Console Application que faz uso Partial Constructors. | 2025-11-12 | https://github.com/renatogroffe/dotnet10-csharp14-consoleapp-partialconstructor |
-
-
 | Exemplo em .NET 10 de Console Application que faz uso de Null-conditional assignment (inclui solution no padrão .slnx). | 2025-11-12 | https://github.com/renatogroffe/dotnet10-consoleapp-slnx-nullconditionalassignment |
-
-
 | Testes com MCP Server para MySQL (designcomputer/mysql_mcp_server), além do uso de um segundo MCP Server para geração de dados fake (imagem renatogroffe/dotnet9-consoleapp-mcp-fakedata). Inclui script do Docker Compose. | 2025-11-08 | https://github.com/renatogroffe/mcp-mysql-fakedata |
-
-
 | Exemplo de implementação de testes de carga com k6 para SQL Server (utilizando build a partir de extensões) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. | 2025-10-30 | https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines |
 |  Conteúdos da apresentação "Turbinando e descomplicando a automação de Testes de Integração com Testcontainers". | 2025-10-24 | https://github.com/renatogroffe/testcontainers_mvpconf2025 |
 | Conteúdos da apresentação "MCP + Bases Relacionais: gerenciando e explorando seus dados com Inteligência Artificial". | 2025-10-25 | https://github.com/renatogroffe/mcp-bases-relacionais_mvpconf2025 |
