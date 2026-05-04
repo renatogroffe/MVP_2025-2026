@@ -17,7 +17,10 @@ Microsoft Agent Framework, Semantic Kernel
 
 
 
-| ------------ | ---- | ---- |
+
+
+
+
 
 
 | Apresentação sobre Arquitetura de Integrações realizada no dia 04/11/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel, Inteligência Artificial... | 2025-11-04 | https://github.com/renatogroffe/arquitetura-integracoes-2025-11 |
@@ -26,6 +29,7 @@ Microsoft Agent Framework, Semantic Kernel
 
 
 | Conteúdos da apresentação "Segurança em Containers: boas práticas, ferramentas, pontos de atenção...". | 2025-10-25 | https://github.com/renatogroffe/seguranca-containers_mvpconf2025 |
+| Conteúdos da apresentação "Governança e Segurança em APIs REST: tirando o melhor proveito de APIs Gateways!". Tópicos: API Gateways, Segurança em APIs, Cloud Computing, DevSecOps, Containers....  | 2025-10-24 | https://github.com/renatogroffe/api-gateways-governanca-seguranca_mvpconf2025 |
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base MySQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-10-23 | https://github.com/renatogroffe/dotnet9-semantickernel-mysql-testcontainers-otel-azureappinsights_consultaprodutos |
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-grafana-mcp-mslearn_chat |
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com Azure Open AI + Azure Speech e interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes. Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry. | 2025-10-16 | https://github.com/renatogroffe/dotnet9-agentframework-azurespeech-otel-jaeger-mcp-mslearn_chat |
