@@ -10,43 +10,18 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
-| Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando distributed tracing com Grafana + OpenTelemetry (implementacao generica ou especifica do Grafana) + PostgreSQL + MySQL + Redis. Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-postgres-mysql-redis_apicontagem |
-
-
-| Exemplo de Console App criada com o.NET 9 e utilizando distributed tracing com Grafana + OpenTelemetry (implementacao generica ou especifica do Grafana) para consumo de APIs REST. Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/dotnet9-consoleapp-otel-grafana_consumoapis |
-
-
-
-| Exemplo de API REST criada com o Node.js com implementação de distributed tracing com OpenTelemetry (configurando porta do OpenTelemetry Collector + comunicação via gRPC) e consumindo uma API REST genérica gratuita (Bacon Ipsum). Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/nodejs-otel_apiconsumobackend |
-
-
-
-| Exemplo de aplicação criada com Java + Spring + Apache Camel com implementação de distributed tracing com OpenTelemetry (configurando porta do OpenTelemetry Collector + comunicação via gRPC) e consumindo uma API REST genérica gratuita (Fed Treasury). Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/java-spring-camel_apiconsumobackend |
-
-
-
+| Conteúdos da apresentação sobre Value Stream realizada no dia 23/09/2025. Tópicos abordados: DevOps, Value Stream Mapping, IT4IT, Docker, Kubernetes, Cloud, IA... | 2025-09-23 | https://github.com/renatogroffe/value-stream_2025-09 |
 | Exemplo em .NET 9 de Function App que faz uso do mecanismo nativo de injeção de dependências da plataforma .NET. | 2025-09-22 | https://github.com/renatogroffe/dotnet9-azurefunctions-injdependencias |
-
-
 | Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Zipkin + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-zipkin-postgres-mysql-redis |
-
-
 | Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Elastic APM + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-elasticapm-postgres-mysql-redis |
-
 | Apresentação sobre Arquitetura de Integrações realizada no dia 18/09/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-09-18 | https://github.com/renatogroffe/arquitetura-integracoes-2025-09 |
-
+| Exemplo de API REST criada com o .NET 9 + ASP.NET Core e utilizando distributed tracing com Grafana + OpenTelemetry (implementacao generica ou especifica do Grafana) + PostgreSQL + MySQL + Redis. Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/aspnetcore9-otel-grafana-postgres-mysql-redis_apicontagem |
+| Exemplo de Console App criada com o.NET 9 e utilizando distributed tracing com Grafana + OpenTelemetry (implementacao generica ou especifica do Grafana) para consumo de APIs REST. Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/dotnet9-consoleapp-otel-grafana_consumoapis |
+| Exemplo de API REST criada com o Node.js com implementação de distributed tracing com OpenTelemetry (configurando porta do OpenTelemetry Collector + comunicação via gRPC) e consumindo uma API REST genérica gratuita (Bacon Ipsum). Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/nodejs-otel_apiconsumobackend |
+| Exemplo de aplicação criada com Java + Spring + Apache Camel com implementação de distributed tracing com OpenTelemetry (configurando porta do OpenTelemetry Collector + comunicação via gRPC) e consumindo uma API REST genérica gratuita (Fed Treasury). Para uso com ambientes empregados em testes de observabilidade e disponibilizados via Docker Compose. | 2025-09-17 | https://github.com/renatogroffe/java-spring-camel_apiconsumobackend |
 | Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Jaeger + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-17 | https://github.com/renatogroffe/dockercompose-opentelemetry-jaeger-postgres-mysql-redis |
-
-
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do Azure DevOps. | 2025-09-16 | https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http |
-
-
 | Exemplo de API REST para contagem de acessos criada com .NET 10 Release Candidate 1 + ASP.NET Core + Minimal APIs + Scalar. Inclui o monitoramento via Azure Application Insights + OpenTelemetry, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-15 | https://github.com/renatogroffe/aspnetcore10_rc1-minimalapis-appinsights-otel-scalar_contagemacessos |
-
-
-
 | Example of a REST API for access counting created with .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Includes the use of Filters validating an API Key, a Secret storing this value (API Key) in Azure Key Vault, and a Dockerfile for generating Linux-based images. | 2025-09-10 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-azkeyvault-scalar_contagemacessos-apikey |
 | Serverless application created with .NET 9 + Azure Functions for testing with Azurite + Azure Table Storage using the Testcontainers project. | 2025-09-09 | https://github.com/renatogroffe/dotnet9-azurefunctions-testcontainers-azurite-table |
 | REST API created with .NET 9 + ASP.NET Core + Minimal APIs + Scalar for testing with Azurite + Azure Table Storage using the Testcontainers project. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-scalar-testcontainers-azurite-table |
