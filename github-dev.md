@@ -17,6 +17,8 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| Exemplo de uso do MCP do SQL Server com um server de banco de dados containerizado e consultado a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-07-28 | https://github.com/renatogroffe/sqlserver-mcp-scripts |
+
 
 | Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 10 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do novo suporte a validações para Minimal APIs (incluindo DisableValidation). | 2025-07-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas-v2 |
 
