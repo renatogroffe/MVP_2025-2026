@@ -18,6 +18,13 @@ COMEÇAR EM: https://github.com/renatogroffe?page=5&tab=repositories
 | ------------ | ---- | ---- |
 
 
+
+
+| Implementação em .NET 9 (Console App) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-15 | https://github.com/renatogroffe/dotnet9-consoleapp-mcp-fakedata |
+
+
+
+
 | Implementação em ASP.NET Core + .NET 9 de MCP Server para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | 2025-10-07 | https://github.com/renatogroffe/aspnetcore9-mcp-fakedata |
 
 
