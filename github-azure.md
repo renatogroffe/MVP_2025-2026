@@ -10,6 +10,15 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do Azure DevOps. | 2025-09-16 | https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http |
+
+
+| Exemplo de API REST para contagem de acessos criada com .NET 10 Release Candidate 1 + ASP.NET Core + Minimal APIs + Scalar. Inclui o monitoramento via Azure Application Insights + OpenTelemetry, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-15 | https://github.com/renatogroffe/aspnetcore10_rc1-minimalapis-appinsights-otel-scalar_contagemacessos |
+
+
+
 | Example of a REST API for access counting created with .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Includes the use of Filters validating an API Key, a Secret storing this value (API Key) in Azure Key Vault, and a Dockerfile for generating Linux-based images. | 2025-09-10 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-azkeyvault-scalar_contagemacessos-apikey |
 | Serverless application created with .NET 9 + Azure Functions for testing with Azurite + Azure Table Storage using the Testcontainers project. | 2025-09-09 | https://github.com/renatogroffe/dotnet9-azurefunctions-testcontainers-azurite-table |
 | REST API created with .NET 9 + ASP.NET Core + Minimal APIs + Scalar for testing with Azurite + Azure Table Storage using the Testcontainers project. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-scalar-testcontainers-azurite-table |
