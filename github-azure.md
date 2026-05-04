@@ -15,6 +15,10 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Exemplo de API REST para contagem de acessos criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar. Inclui o uso de Filters validando uma API Key, um Secret armazenando este valor (API Key) no Azure Key Vault, além de um Dockerfile para a geração de imagens baseadas em Linux. | 2025-09-10 | https://github.com/renatogroffe/aspnetcore9-minimalapis-filters-azkeyvault-scalar_contagemacessos-apikey |
 
 
+| API REST criada com .NET 9 + ASP.NET Core + Minimal APIs + Scalar para testes com Azurite + Azure Table Storage a partir do uso do projeto Testcontainers. | 2025-09-09 | https://github.com/renatogroffe/aspnetcore9-scalar-testcontainers-azurite-table |
+
+
+
 | Exemplo em .NET 9 de Console Application que faz uso do projeto Semantic Kernel, com integração com soluções de IA como Azure Open AI e Ollama na interação com um servidor MCP - utilizei o Azure MCP para testes (package npm). Inclui Docker Compose para criação do ambiente de testes com os serviços de monitoramento do Grafana + OpenTelemetry. | 2025-09-08 | https://github.com/renatogroffe/dotnet9-semantickernel-otel-grafana-mcp-azure-npm_chat |
 
 
