@@ -19,6 +19,9 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+
+
 | Roteiro de estudos para 2026 com foco em Cloud Computing, Azure, Grafana, containers, tecnologias cloud native ... | 2026-01-23 | https://github.com/renatogroffe/cloud-roadmap-2026 |
 
 
@@ -27,6 +30,8 @@ SQL Server, PostgreSQL, MySQL
 
 
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Jaeger e OpenTelemetry. | 2026-01-20 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-jaeger_consultaprodutos |
+
+| Conteúdos Gratuitos sobre Monitoramento/Observabilidade (Docker, Kubernetes, OpenTelemetry, Grafana, Azure) + Pauta da participação no podcast Papo Pro ACBr + Informações sobre este evento online. | 2026-01-13 | https://github.com/renatogroffe/monitoramento-observabilidade_papo-pro-acbr-2026-01 |
 
 
 | Exemplo de uso de Policies do APIM para proteger um MCP Server + consumo via Visual Studio Code. | 2026-01-10 | https://github.com/renatogroffe/mcp-apim-vscode |
