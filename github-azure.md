@@ -10,6 +10,13 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+| Exemplo de implementação de Console App em .NET 9 para reconhecimento de voz utilizando o serviço Azure Speech. | ---- | https://github.com/renatogroffe/dotnet9-consoleapp-azurespeech |
+
+
+
 | Conteúdos da apresentação sobre Value Stream realizada no dia 23/09/2025. Tópicos abordados: DevOps, Value Stream Mapping, IT4IT, Docker, Kubernetes, Cloud, IA... | 2025-09-23 | https://github.com/renatogroffe/value-stream_2025-09 |
 | Exemplo em .NET 9 de Function App que faz uso do mecanismo nativo de injeção de dependências da plataforma .NET. | 2025-09-22 | https://github.com/renatogroffe/dotnet9-azurefunctions-injdependencias |
 | Docker Compose + scripts para criação do ambiente de testes com os serviços de monitoramento do Zipkin + OpenTelemetry e bases de dados do PostgreSQL, MySQL e Redis. | 2025-09-18 | https://github.com/renatogroffe/dockercompose-opentelemetry-zipkin-postgres-mysql-redis |
