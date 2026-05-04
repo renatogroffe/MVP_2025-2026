@@ -16,7 +16,6 @@ Microsoft Agent Framework, Semantic Kernel
 | ------------ | ---- | ---- |
 
 
-| ------------ | ---- | ---- |
 
 
 
