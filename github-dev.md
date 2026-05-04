@@ -16,6 +16,12 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Exemplo de API REST para cadastro de Pessoas (e suas empresas) criada com .NET 10 + Minimal APIs + ASP.NET Core. Inclui uso de OpenAPI + Scalar e do novo suporte a validações para Minimal APIs (incluindo DisableValidation). | 2025-07-23 | https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas-v2 |
+
+
+
 | Instructions for testing the GitHub MCP server (from a Docker image) in Visual Studio Code. | 2025-07-14 | https://github.com/renatogroffe/github-mcp-vscode-2025-07 |
 | Example of an Azure DevOps pipeline in a macOS environment for building a Flutter app on iOS. It also includes the use of a MobSF service container (to detect vulnerabilities in the .ipa file generated during the build) and MegaLinter (for code vulnerability analysis). | 2025-07-07 | https://github.com/renatogroffe/azurepipelines-flutter-ios-build-mobsf-megalinter |
 | Example of using the open source tool MegaLinter to analyze code and detect security issues from an Azure DevOps pipeline (with a .NET 7 application). | 2025-07-02 | https://github.com/renatogroffe/azuredevops-megalinter-dotnet7 |
