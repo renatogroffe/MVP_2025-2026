@@ -22,6 +22,9 @@ SQL Server, PostgreSQL, MySQL
 
 
 
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Grafana e OpenTelemetry. | 2026-01-20 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-grafana_consultaprodutos |
+
+
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Jaeger e OpenTelemetry. | 2026-01-20 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-jaeger_consultaprodutos |
 
 
@@ -31,6 +34,7 @@ SQL Server, PostgreSQL, MySQL
 
 
 | Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnologias cloud native. | 2025-12-28 | https://github.com/renatogroffe/containers-kubernetes-roadmap-2026 |
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Azure Open AI na consulta de informações de produtos em uma base SQL Server. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + monitoramento com Application Insights/Azure Monitor. | 2025-12-16 | https://github.com/renatogroffe/dotnet10-agent-sqlserver-testcontainers-otel-azureappinsights_consultaprodutos |
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do GitHub Actions. | 2025-12-16 | https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http |
 | Análise em um workflow do GitHub Actions de objetos órfãos utilizando a ferramenta Kor. | 2025-12-16 | https://github.com/renatogroffe/githubactions-kor-kubernetes |
 | Exemplos de uso do projeto Reloader em Kubernetes para atualização de Pods ao modificar Secrets e ConfigMaps. | 2025-12-16 | https://github.com/renatogroffe/kubernetes-reloader-configmap-secret |
