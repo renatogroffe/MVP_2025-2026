@@ -18,6 +18,16 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| ------------ | ---- | ---- |
+
+
+| Exemplo de uso da ferramenta APIsec MCP Discovery and Audit em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-12 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit |
+
+
+
+
 | Workflow do GitHub Actions para build de imagens baseadas em Docker Hardened Images (DHI). | 2025-12-23 | https://github.com/renatogroffe/githubactions-docker-hardened-images-build |
 | Console App criada em .NET 10 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação com Docker Hardened Images (DHI), útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-12-22 | https://github.com/renatogroffe/dotnet10-consoleapp-dhi_job-httprequest |
 | Pipeline do Azure DevOps para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-22 | https://github.com/renatogroffe/azuredevops-docker-hardened-images-comparisons |
