@@ -11,6 +11,16 @@ Main technologies: **Azure Kubernets Service, Azure API Management, Application 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| ------------ | ---- | ---- |
+
+
+
+| Exemplo em .NET 9 de Function App que faz uso do mecanismo nativo de injeção de dependências da plataforma .NET. | 2025-09-22 | https://github.com/renatogroffe/dotnet9-azurefunctions-injdependencias |
+
+
+| Apresentação sobre Arquitetura de Integrações realizada no dia 18/09/2025. Tecnologias e tópicos abordados: Kubernetes, Docker, Azure DevOps, APIOps, GitOps, Linux, Azure, Apache Camel... | 2025-09-18 | https://github.com/renatogroffe/arquitetura-integracoes-2025-09 |
+
+
 
 | Exemplo de implementação de testes de carga com k6 a partir de um cluster Kubernetes, através do uso do k6 Operator e um pipeline do Azure DevOps. | 2025-09-16 | https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http |
 
