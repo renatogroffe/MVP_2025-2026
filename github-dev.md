@@ -20,7 +20,7 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | ------------ | ---- | ---- |
 
 
-| ------------ | ---- | ---- |
+| Exemplo de uso da ferramenta MCP Audit (APIsec University) em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-17 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit_v1.0.0 |
 
 
 | Exemplo de uso da ferramenta APIsec MCP Discovery and Audit em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-12 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit |
