@@ -17,6 +17,10 @@ COMEÇAR EM: https://github.com/renatogroffe?page=7&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+| Exemplo de uso do MCP do SQL Server (via dotnet tool) com um server de banco de dados containerizado e com consulta a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-08-13 | https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts |
+
+
 | Exemplo de uso do MCP do SQL Server com um server de banco de dados containerizado e consultado a dados de regiões do Brasil. Inclui Docker Compose para criação do ambiente de testes. | 2025-07-28 | https://github.com/renatogroffe/sqlserver-mcp-scripts |
 
 
