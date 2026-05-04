@@ -18,28 +18,12 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
-
 | Exemplo de arquivo mcp.json do Visual Studio Code configurado para testes de desenvolvimento locais, integrando o GitHub Copilot a MCP Servers do NuGet, Docker Hub, GitHub, Microsoft Learn e um gerador de dados fake (imagem renatogroffe/dotnet10-consoleapp-mcp-fakedata). | 2026-01-31 | https://github.com/renatogroffe/vscode-mcp-dev-enviroment-2026-01 |
-
-
-
 | Exemplo de implementação de testes de validação com k6 para MCP Servers e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | 2026-01-25 | https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines |
-
-
 | Exemplo de API criada com .NET 10 + ASP.NET Core que simula um Producer do RabbitMQ, com envio de mensagens a uma exchange do tipo Fan-out. Inclui script do Docker Compose para subida de uma instância do RabbitMQ. | 2026-01-23 | https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout |
-
-
-
 | Exemplo de Worker Service que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out. Inclui script do Docker Compose para subida de uma instância do RabbitMQ. | 2026-01-23 | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout |
-
-
 | Exemplo de uso da ferramenta MCP Audit (APIsec University) em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-17 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit_v1.0.0 |
-
-
 | Exemplo de uso da ferramenta APIsec MCP Discovery and Audit em um pipeline do Azure DevOps. Testes realizados com vários tipos de MCP Servers (Microsoft Learn, GitHub, Kubernetes - package npm, gerador de dados fake - imagem Docker). | 2026-01-12 | https://github.com/renatogroffe/azdevops-apisec-mcp-audit |
-
-
 | Workflow do GitHub Actions para build de imagens baseadas em Docker Hardened Images (DHI). | 2025-12-23 | https://github.com/renatogroffe/githubactions-docker-hardened-images-build |
 | Console App criada em .NET 10 e que implementa um job de envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação com Docker Hardened Images (DHI), útil para testes com Jobs/CronJobs do Kubernetes e serviços genéricos. | 2025-12-22 | https://github.com/renatogroffe/dotnet10-consoleapp-dhi_job-httprequest |
 | Pipeline do Azure DevOps para testes comparando a segurança de imagens convencionais e Docker Hardened Images (DHI) via utilitário docker scout. | 2025-12-22 | https://github.com/renatogroffe/azuredevops-docker-hardened-images-comparisons |
