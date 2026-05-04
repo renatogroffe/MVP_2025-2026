@@ -19,6 +19,7 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| Roteiro de estudos para 2026 com foco em Cloud Computing, Azure, Grafana, containers, tecnologias cloud native ... | 2026-01-23 | https://github.com/renatogroffe/cloud-roadmap-2026 |
 
 
 
