@@ -23,6 +23,10 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | Exemplo de implementação de testes de validação com k6 para MCP Servers e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | 2026-01-25 | https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines |
 
 
+| Exemplo de API criada com .NET 10 + ASP.NET Core que simula um Producer do RabbitMQ, com envio de mensagens a uma exchange do tipo Fan-out. Inclui script do Docker Compose para subida de uma instância do RabbitMQ. | 2026-01-23 | https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout |
+
+
+
 | Exemplo de Worker Service que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out. Inclui script do Docker Compose para subida de uma instância do RabbitMQ. | 2026-01-23 | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout |
 
 
