@@ -20,7 +20,6 @@ SQL Server, PostgreSQL, MySQL
 | ------------ | ---- | ---- |
 
 
-| Conteúdos da apresentação "Desenvolvendo MCP Servers: integrando com facilidade as mais variadas tecnologias a soluções de IA!". | ---- | https://github.com/renatogroffe/mcp_devreferencias-2025 |
 
 
 | Exemplo de Worker Service criando em .NET 10 que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out e com monitoramento via OpenTelemetry + Jaeger. Inclui script do Docker Compose para subida do ambiente de testes. | 2026-01-30 | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-jaeger |
