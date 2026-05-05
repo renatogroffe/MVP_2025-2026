@@ -1,14 +1,10 @@
 # Articles - Microsoft Azure
 
-Number of articles: **9**
-
-Blogs where these articles were published:
-- **https://renatogroffe.medium.com/**
-- **https://www.azurebrasil.cloud/author/renato/**
+Number of blog posts/articles: **9**
 
 Main technologies and topics covered: **Azure API Management, Azure Managed Grafana, Azure Kubernetes Service, Kubernetes, Docker, Azure Monitor, Application Insights, Log Analytics, Prometheus, Azure Container Apps, Azure Storage, Microsoft Entra ID...**
 
-**First article published on April 15, 2024.**
+**First article published on May 19, 2025.**
 
 **Last article published on February 28, 2026.**
 
@@ -16,7 +12,9 @@ The table below describes each of the articles, including links to view each con
 
 
 
-| Article | Date | Description | Link |
+
+
+| Blog post/Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
 | Monitoring metrics in ASP.NET Core back-ends with Grafana, Prometheus, and OpenTelemetry | 2026-02-28 | ------------ | https://renatogroffe.medium.com/monitorando-m%C3%A9tricas-em-back-ends-asp-net-core-com-grafana-prometheus-e-opentelemetry-7f1105a082b1 |
 | Artificial Intelligence x Observability: Implementing the collection of traces, metrics, and logs with OpenTelemetry + Grafana | 2026-02-21 | ------------ | https://www.linkedin.com/posts/renatogroffe_ai-grafana-opentelemetry-share-7430843047057182720-zo0C/ |
