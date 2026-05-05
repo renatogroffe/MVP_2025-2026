@@ -1,6 +1,6 @@
 # Blog Posts and Articles - Microsoft Azure
 
-Number of blog posts/articles: **10**
+Number of blog posts/articles: **11**
 
 Main technologies and topics covered: **Azure API Management, Azure Managed Grafana, Azure Kubernetes Service, Kubernetes, Docker, Azure Monitor, Application Insights, Log Analytics, Prometheus, Azure Container Apps, Azure Storage, Microsoft Entra ID...**
 
