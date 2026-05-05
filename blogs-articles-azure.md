@@ -2,7 +2,7 @@
 
 Number of blog posts/articles: **11**
 
-Main technologies and topics covered: **Microsoft Azure, Azure Kubernetes Service, Grafana, Prometheus, OpenTelemetry, Azure Managed Grafana, Azure App Service, Azure Container Apps, Azure Functions, Azure Certifications, Application Insights, Azure Monitor, Azure Log Analytics...**
+Main technologies and topics covered: **Microsoft Azure, Azure Kubernetes Service, Grafana, Prometheus, OpenTelemetry, Azure Managed Grafana, Azure App Service, Azure Container Apps, Azure Functions, Azure Certifications, Application Insights, Azure Monitor, Azure Log Analytics, Artificial Intelligence, Microsoft Foundry, MCP...**
 
 **First article published on May 19, 2025.**
 
