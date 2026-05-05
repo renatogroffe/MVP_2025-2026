@@ -19,6 +19,19 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+| Exemplo de workflow do GitHub Actions para a execução automatizada de testes de carga do k6 em uma API REST, com thresholds + checks e a exportação dos resultados para relatórios HTML (Web Dashboard e HTML Reporter). Inclui também a publicação dos resultados dos testes como um site via GitHub Pages. | ---- | https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard |
+
+
+| Exemplo de workflow do GitHub Actions para a execução automatizada de testes de carga do k6 em uma API REST, com thresholds + checks e a exportação dos resultados para relatórios HTML (Web Dashboard e HTML Reporter). | ---- | https://github.com/renatogroffe/k6-loadtests-githubactions-api-html-dashboard |
+
+
+| Exemplo de pipeline do Azure DevOps para a execução automatizada de testes de carga do k6 em uma API REST, com thresholds + checks e a exportação dos resultados para relatórios HTML (Web Dashboard e HTML Reporter). | ---- | https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard |
+
+
+
+| Slides e conteúdos da apresentação "Implementação e Automação de Testes de Carga com k6, Azure DevOps e GitHub Actions". | ---- | https://github.com/renatogroffe/testes-carga_devops-weekend-2026-02 |
+
 | Exemplo em .NET 10 de Console Application para geração simulada de cotações de moedas estrangeiras (dólar, euro e libra) no Redis. Inclui Docker Compose para subida de ambiente de testes com Redis + Redis Insight. | ---- | https://github.com/renatogroffe/dotnet10-consoleapp-redis_simulacaocotacoes |
 
 | Exemplo em .NET 11 de Console Application demonstrando melhorias na manipulação de emojis com o tipo System.Text.Rune. | ---- | https://github.com/renatogroffe/dotnet11-consoleapp-rune-emojis |
