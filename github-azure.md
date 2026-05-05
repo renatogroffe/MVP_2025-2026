@@ -18,25 +18,13 @@ SQL Server, PostgreSQL, MySQL
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
-
 | Slides e conteúdos da apresentação "Azure Managed Grafana: monitoramento na nuvem com eficiência e flexibilidade". Palestra realizada durante o Grafana Weekend em 21/03/2026 na cidade de São Paulo-SP. | ---- | https://github.com/renatogroffe/azure-managed-grafana_grafana-weekend-2026-03 |
-
-
 | Exemplo de uso do KEDA com o scaler Cron (com escalabilidade pré-agendada) tomando como base uma aplicação para envio de requisições HTTP a endpoints genéricos. | ---- | https://github.com/renatogroffe/kubernetes-keda-cron_worker-httprequests |
-
-
 | Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra realizada durante o AZBR Summit em 14/03/2026. | ---- | https://github.com/renatogroffe/mcp-governanca_azbr-summit-2026-03 |
-
 | Implementação em ASP.NET Core + .NET 10 de MCP Server para consulta a cotações de moedas estrangeiras (simulação) armazenadas em uma instância do Redis. Inclui o uso de um script do Docker Compose (ambiente de testes), monitoramento/observabilidade com OpenTelemetry + Azure Application Insights e um Dockerfile (build de imagens deste MCP). | ---- | https://github.com/renatogroffe/aspnetcore10-mcp-otel-appinsights-redis_simulacaocotacoes |
-
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de cotações de moedas estrangeiras disponibilizas por um MCP Server. Inclui monitoramento via traces com Application Insights/Azure Monitor + OpenTelemetry. | ---- | https://github.com/renatogroffe/dotnet10-agent-mcp-otel-azureappinsights_consultacotacoes |
-
-
 | Exemplo de exposição via Azure API Management de uma API REST convencional (baseada em OpenAPI) como um MCP Server. Exemplo baseado em uma aplicação containerizada publicada através do Azure Container Apps. | ---- | https://github.com/renatogroffe/azureapim-openapi-mcp |
-
-
 | Exemplo de API REST para contagem de acessos criada com .NET 10 + ASP.NET Core + Minimal APIs + Scalar. Inclui o monitoramento via Azure Application Insights + OpenTelemetry, além de um Dockerfile para a geração de imagens baseadas em Linux e um flag para simulação de falhas. | ---- | https://github.com/renatogroffe/aspnetcore10-minimalapis-appinsights-otel-scalar_contagemacessos-simulacaofalhas |
-
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de produtos em uma base PostgreSQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + observabilidade com Grafana + OpenTelemetry. | ---- | https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-otel-grafana_consultaprodutos-v2 |
 | Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de produtos em uma base PostgreSQL e no consumo de um MCP Server. Inclui o uso do Testcontainers para criação do ambiente de testes + observabilidade com Grafana + OTEL. | ---- | https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-mcp-otel-grafana_consultaprodutos |
 | Implementação em ASP.NET Core + .NET 10 de MCP Server para contagem de acessos a partir de uma instância do Redis gerada via Testcontainers. Inclui o uso de um script do Docker Compose para ambiente de monitoramento/observabilidade com OpenTelemetry + Grafana. | ---- | https://github.com/renatogroffe/aspnetcore10-mcp-otel-grafana-redis-testcontainers_contagem |
