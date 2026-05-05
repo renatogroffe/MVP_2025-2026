@@ -18,6 +18,12 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Conteúdos de apresentação sobre MCP realizada no dia 27/09/2025. Tecnologias abordadas: MCP, AI, LLMs, GitHub Copilot, Docker, Docker MCP Hub, Visual Studio Code, Azure API Management, .NET, Java, Node.js, Python... | ---- | https://github.com/renatogroffe/mcp-vscode-dev-days-2025-09-spcapital |
+
+
+
 | Conteúdos da apresentação "Desenvolvendo MCP Servers: integrando com facilidade as mais variadas tecnologias a soluções de IA!". | ---- | https://github.com/renatogroffe/mcp_devreferencias-2025 |
 | Exemplo de arquivo mcp.json do Visual Studio Code configurado para testes de desenvolvimento locais, integrando o GitHub Copilot a MCP Servers do NuGet, Docker Hub, GitHub, Microsoft Learn e um gerador de dados fake (imagem renatogroffe/dotnet10-consoleapp-mcp-fakedata). | 2026-01-31 | https://github.com/renatogroffe/vscode-mcp-dev-enviroment-2026-01 |
 | Exemplo de implementação de testes de validação com k6 para MCP Servers e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | 2026-01-25 | https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines |
