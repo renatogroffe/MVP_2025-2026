@@ -14,6 +14,8 @@ The table below describes each of the articles, including links to view each con
 
 
 
+
+
 | Blog post/Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
 | Monitoring metrics in ASP.NET Core back-ends with Grafana, Prometheus, and OpenTelemetry | 2026-02-28 | ------------ | https://renatogroffe.medium.com/monitorando-m%C3%A9tricas-em-back-ends-asp-net-core-com-grafana-prometheus-e-opentelemetry-7f1105a082b1 |
