@@ -19,6 +19,11 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| ------------ | ---- | ---- |
+
+
+| Exemplo de uso do KEDA com o scaler Cron (com escalabilidade pré-agendada) tomando como base uma aplicação para envio de requisições HTTP a endpoints genéricos. | ---- | https://github.com/renatogroffe/kubernetes-keda-cron_worker-httprequests |
+
 
 | Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra realizada durante o AZBR Summit em 14/03/2026. | ---- | https://github.com/renatogroffe/mcp-governanca_azbr-summit-2026-03 |
 
