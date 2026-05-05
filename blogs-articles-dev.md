@@ -27,8 +27,7 @@ MCP, Artificial Intelligence
 | Container Security - Docker Hardened Images (DHI): An Example with Node 24 + Azure DevOps | 2025-12-24 | This LinkedIn post discusses the use of Docker Hardened Images in implementing more secure containerized solutions, providing an example of using a GitHub Actions workflow to compare conventional and hardened Node 24 images. | https://www.linkedin.com/posts/renatogroffe_docker-dockerhardenedimages-containers-activity-7409656968807878657-6--e/ |
 | Microsoft Certified: DevOps Engineer Expert – DevOps, Cloud, Containers, Kubernetes... | 2025-12-20 | This LinkedIn post offers tips on the DevOps Engineer Expert certification (AZ-400 exam), highlighting exam requirements and the renewal process, such as knowledge of Azure DevOps, GitHub, Containers, Kubernetes, Observability and services focused on developing applications in Microsoft Azure. | https://www.linkedin.com/posts/renatogroffe_devops-certification-az400-activity-7408189449924415489-2NVS/ |
 | Container security - Breaking news: Docker Hardened Images (DHI) as a free service! | 2025-12-19 | This LinkedIn post discusses the announcement of Docker Hardened Images as a free option, best practices involving container security, and provides an example of a GitHub workflow comparing regular and hardened images. | https://www.linkedin.com/posts/renatogroffe_docker-devsecops-containers-activity-7407785524465156097-vsx_/ |
-
-| ------------ | ---- | ------------ | ---- |
+| MCPs, MySQL, containers, and flexibility in integrating with Generative AIs | 2025-11-08 | This LinkedIn post demonstrates how to easily create testing environments for MCP Servers using Docker Compose scripts, in an example that uses an MCP for MySQL and the combination of Visual Studio Code and GitHub Copilot. | https://www.linkedin.com/posts/renatogroffe_mcp-modelcontextprotocol-ai-activity-7392969155764965377-yMb3/ |
 
 
 
