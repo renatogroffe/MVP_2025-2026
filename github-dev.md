@@ -2,7 +2,7 @@
 
 Number of repositories: **117**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Postman, k6, SQL Server, PostgreSQL, SQLite, Dapper, Entity Framework Core, Polly, xUnit, Testcontainers, Linux, iOS, Podman, Mermaid, Apache Kafka, React Native, JavaScript, macOS, iOS, Android, Flutter...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Grafana k6, SQL Server, PostgreSQL, Dapper, Entity Framework Core, Testcontainers, Linux, iOS, Podman, Mermaid, React Native, JavaScript, macOS, iOS, Android, Flutter, GitHub Copilot, MCP...**
 
 **First repository created on April 02, 2024.**
 
@@ -18,6 +18,12 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Implementação em .NET 10 (Console App) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | ---- | https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata |
+
+
+| Exemplo de implementação de testes de validação com Grafana k6 para MCP Servers publicados como Web Apps (HTTP) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | ---- | https://github.com/renatogroffe/k6-mcps-tests-http-azdevops-pipelines |
 
 
 | Exemplo de workflow do GitHub Actions para a execução automatizada de testes de carga do k6 em uma API REST, com thresholds + checks e a exportação dos resultados para relatórios HTML (Web Dashboard e HTML Reporter). Inclui também a publicação dos resultados dos testes como um site via GitHub Pages. | ---- | https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard |
