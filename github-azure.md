@@ -18,6 +18,24 @@ SQL Server, PostgreSQL, MySQL
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+
+| Exemplo de Worker Service que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out e com monitoramento via OpenTelemetry + Grafana + Alloy + Tempo. Inclui script do Docker Compose para subida do ambiente de testes. | ---- | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-grafana |
+
+
+| Exemplo de API criada com .NET 10 + ASP.NET Core que simula um Producer do RabbitMQ, com envio de mensagens a uma exchange do tipo Fan-out e monitoramento via OpenTelemetry + Grafana + Alloy + Tempo. Inclui script do Docker Compose para subida do ambiente de testes. | ---- | https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout-otel-grafana |
+
+
+| Exemplo de Console App criada com o .NET 10 e utilizando distributed tracing com Grafana + OpenTelemetry para consumo de APIs REST, com ambientes empregados em testes de observabilidade. Inclui scripts do Docker Compose para geração do ambiente de testes. | ---- | https://github.com/renatogroffe/dotnet10-consoleapp-otel-grafana_consumoapis |
+
+
+| Exemplos de uso de OpenTelemetry + Grafana + Tempo (trace) + Loki (logs) + Prometheus (métricas) com uma API REST de contagem de acessos baseada em .NET 10 + ASP.NET Core e que utiliza uma base de dados PostgreSQL. Inclui um script do Docker Compose para criação do ambiente de testes + script do k6 para testes de carga. | ---- | https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-postgres_contagemacessos |
+
+
+
+
+
 | Exemplo de Worker Service criando em .NET 10 que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out e com monitoramento via OpenTelemetry + Jaeger. Inclui script do Docker Compose para subida do ambiente de testes. | 2026-01-30 | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-jaeger |
 | Exemplo de API criada com .NET 10 + ASP.NET Core que simula um Producer do RabbitMQ, com envio de mensagens a uma exchange do tipo Fan-out e monitoramento via OpenTelemetry + Jaeger. Inclui script do Docker Compose para subida do ambiente de testes. | 2026-01-30 | https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout-otel-jaeger |
 | Roteiro de estudos para 2026 com foco em Cloud Computing, Azure, Grafana, containers, tecnologias cloud native ... | 2026-01-23 | https://github.com/renatogroffe/cloud-roadmap-2026 |
