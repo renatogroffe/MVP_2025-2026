@@ -2,19 +2,19 @@
 
 Number of repositories: **86**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, Docker Compose, KEDA, Visual Studio Code, OpenTelemetry, Grafana, Jaeger, Zipkin, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, Docker Compose, KEDA, MCP, GitHub Copilot, Microsoft Foundry, Azure Speech, Visual Studio Code, OpenTelemetry, Grafana, Jaeger, Zipkin, .NET, ASP.NET Core, Azure DevOps, GitHub Actions, Microsoft Agent Framework, Semantic Kernel, SQL Server, PostgreSQL, MySQL, Redis,  Node.js, Java, Python...**
 
-MCP, Microsoft Foundry, Azure Speech
 
-Microsoft Agent Framework, Semantic Kernel
 
-Node.js, Java, Python
 
-SQL Server, PostgreSQL, MySQL
 
-**First repository created on April 10, 2024.**
 
-**Last repository created on March 27, 2025.**
+
+
+
+**First repository created on April 17, 2026.**
+
+**Last repository created on March 21, 2026.**
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
