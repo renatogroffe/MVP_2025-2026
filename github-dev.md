@@ -19,6 +19,11 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+| Exemplo em .NET 11 de Console Application que faz uso de métodos do tipo System.Net.Mime.MediaTypeMap. | ---- | https://github.com/renatogroffe/dotnet11-consoleapp-mediatypemap |
+
+
+| Exemplo em .NET 11 de Console Application que faz uso de desserialização (via System.Text.Json) com instâncias baseadas no tipo IReadOnlySet<T>. | ---- | https://github.com/renatogroffe/dotnet11-consoleapp-ireadonlyset-deserialize |
+
 
 | Exemplo de implementação de testes de validação com k6 para MCP Servers acionados via dnx (.NET 10) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | ---- | https://github.com/renatogroffe/k6-mcps-tests-dnx-azdevops-pipelines |
 
