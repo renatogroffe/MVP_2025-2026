@@ -2,7 +2,7 @@
 
 Number of repositories: **117**
 
-Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Grafana k6, SQL Server, PostgreSQL, Dapper, Entity Framework Core, Testcontainers, Linux, iOS, Podman, Mermaid, React Native, JavaScript, macOS, iOS, Android, Flutter, GitHub Copilot, MCP...**
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Docker, NuGet, Grafana k6, SQL Server, PostgreSQL, Dapper, Entity Framework Core, Testcontainers, Linux, iOS, Podman, Mermaid, React Native, JavaScript, macOS, iOS, Android, Flutter, GitHub Copilot, MCP...**
 
 **First repository created on April 02, 2024.**
 
