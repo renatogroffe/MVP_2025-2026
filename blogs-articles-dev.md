@@ -16,7 +16,9 @@ The table below describes each of the articles, including links to view each con
 
 | Article/ Blog Post | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-| Generative AIs + Containers: Docker Hub MCP Server | 2026-02-07 | This LinkedIn post discusses the possibilities of using Docker Hub MCP Server, with an example involving Visual Studio Code and GitHub Copilot. | https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-share-7425883496029745152-Z7QI/  |
+| Generative AIs + Containers: Docker Hub MCP Server | 2026-02-07 | This LinkedIn post discusses the possibilities of using Docker Hub MCP Server, with an example involving Visual Studio Code and GitHub Copilot. | https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-share-7425883496029745152-Z7QI/ |
+| MCP Audit: analyzing MCP Servers in a Code Repository | 2026-01-17 | This LinkedIn post discusses the use of the open-source tool MCP Audit to check for vulnerabilities related to the use of MCPs in code repositories, providing an example that detects configurations with various types of MCP Servers (Docker container, npm, Web Apps).... | https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activity-7418336305979326464-1zrR/ |
+
 
 xxxxxxxxxxxxxxxxx
 
