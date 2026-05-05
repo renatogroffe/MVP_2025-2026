@@ -1,4 +1,4 @@
-# Articles - Microsoft Azure
+# Blog Posts and Articles - Microsoft Azure
 
 Number of blog posts/articles: **10**
 
