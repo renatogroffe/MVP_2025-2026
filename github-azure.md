@@ -19,6 +19,14 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+| Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra realizada durante o AZBR Summit em 14/03/2026. | ---- | https://github.com/renatogroffe/mcp-governanca_azbr-summit-2026-03 |
+
+| Implementação em ASP.NET Core + .NET 10 de MCP Server para consulta a cotações de moedas estrangeiras (simulação) armazenadas em uma instância do Redis. Inclui o uso de um script do Docker Compose (ambiente de testes), monitoramento/observabilidade com OpenTelemetry + Azure Application Insights e um Dockerfile (build de imagens deste MCP). | ---- | https://github.com/renatogroffe/aspnetcore10-mcp-otel-appinsights-redis_simulacaocotacoes |
+
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de cotações de moedas estrangeiras disponibilizas por um MCP Server. Inclui monitoramento via traces com Application Insights/Azure Monitor + OpenTelemetry. | ---- | https://github.com/renatogroffe/dotnet10-agent-mcp-otel-azureappinsights_consultacotacoes |
+
+
 | Exemplo de exposição via Azure API Management de uma API REST convencional (baseada em OpenAPI) como um MCP Server. Exemplo baseado em uma aplicação containerizada publicada através do Azure Container Apps. | ---- | https://github.com/renatogroffe/azureapim-openapi-mcp |
 
 
