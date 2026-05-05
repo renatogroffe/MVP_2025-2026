@@ -19,6 +19,10 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
+
+| Conteúdos da apresentação "Desenvolvendo MCP Servers: integrando com facilidade as mais variadas tecnologias a soluções de IA!". | ---- | https://github.com/renatogroffe/mcp_devreferencias-2025 |
+
+
 | Exemplo de Worker Service criando em .NET 10 que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out e com monitoramento via OpenTelemetry + Jaeger. Inclui script do Docker Compose para subida do ambiente de testes. | 2026-01-30 | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-jaeger |
 | Exemplo de API criada com .NET 10 + ASP.NET Core que simula um Producer do RabbitMQ, com envio de mensagens a uma exchange do tipo Fan-out e monitoramento via OpenTelemetry + Jaeger. Inclui script do Docker Compose para subida do ambiente de testes. | 2026-01-30 | https://github.com/renatogroffe/aspnetcore10-producer-rabbitmq-exchange-fanout-otel-jaeger |
 | Roteiro de estudos para 2026 com foco em Cloud Computing, Azure, Grafana, containers, tecnologias cloud native ... | 2026-01-23 | https://github.com/renatogroffe/cloud-roadmap-2026 |
