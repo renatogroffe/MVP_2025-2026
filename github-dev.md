@@ -1,17 +1,20 @@
 # Repositories - Developer Technologies
 
-Number of repositories: **89**
+Number of repositories: **92**
 
 Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Docker, NuGet, Grafana k6, SQL Server, PostgreSQL, Dapper, Entity Framework Core, Testcontainers, Linux, iOS, Podman, Mermaid, React Native, JavaScript, macOS, iOS, Android, Flutter, GitHub Copilot, MCP...**
 
 **First repository created on April 04, 2025.**
 
-**Last repository created on March 22, 2025.**
+**Last repository created on March 28, 2026.**
 
 The table below describes each of the projects, including links to view each of these examples.
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+| Worker Service criado em .NET 10 e que implementa o envio de requisições HTTP para um endpoint genérico. Inclui Dockerfile para build da aplicação, útil para testes com back-ends no Kubernetes e serviços genéricos. | ---- | https://github.com/renatogroffe/dotnet10-worker_httprequest |
+| Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros". | ---- | https://github.com/renatogroffe/owasp-api-top-10_devpira-security-wknd |
+| Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do dia a dia com MCP Servers". Palestra realizada no dia 28/03/2026, durante a edição 2026 do SQL Saturday em São Paulo-SP. | ---- | https://github.com/renatogroffe/produtividade-mcps_sqlsaturday-sp-2026 |
 | Implementação em .NET 10 (Console App) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um Dockerfile para build de imagens da aplicação. | ---- | https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata |
 | Exemplo de implementação de testes de validação com Grafana k6 para MCP Servers publicados como Web Apps (HTTP) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | ---- | https://github.com/renatogroffe/k6-mcps-tests-http-azdevops-pipelines |
 | Exemplo de workflow do GitHub Actions para a execução automatizada de testes de carga do k6 em uma API REST, com thresholds + checks e a exportação dos resultados para relatórios HTML (Web Dashboard e HTML Reporter). Inclui também a publicação dos resultados dos testes como um site via GitHub Pages. | ---- | https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard |
