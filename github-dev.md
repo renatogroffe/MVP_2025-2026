@@ -18,6 +18,11 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+
+| Conteúdos da apresentação "Desenvolvendo MCP Servers: integrando com facilidade as mais variadas tecnologias a soluções de IA!". | ---- | https://github.com/renatogroffe/mcp_devreferencias-2025 |
+
+
 | Exemplo de arquivo mcp.json do Visual Studio Code configurado para testes de desenvolvimento locais, integrando o GitHub Copilot a MCP Servers do NuGet, Docker Hub, GitHub, Microsoft Learn e um gerador de dados fake (imagem renatogroffe/dotnet10-consoleapp-mcp-fakedata). | 2026-01-31 | https://github.com/renatogroffe/vscode-mcp-dev-enviroment-2026-01 |
 | Exemplo de implementação de testes de validação com k6 para MCP Servers e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | 2026-01-25 | https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines |
 | Implementação em .NET 10 (package NuGet) de MCP Server (stdio) para a geração de dados fake de empresas, contatos e produtos no padrão brasileiro. Inclui o uso da biblioteca Bogus e de um workflow do GitHub Actions para publicação do pacote no NuGet. | 2026-01-24 | https://github.com/renatogroffe/dotnet10-nuget-mcp-fakedata |
