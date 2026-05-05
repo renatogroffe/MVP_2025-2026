@@ -2,7 +2,7 @@
 
 Number of repositories: **86**
 
-Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, Docker Compose, KEDA, Visual Studio Code, OpenTelemetry, Grafana, Jaeger, Zipkin, Terraform, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
+Main technologies: **Azure Kubernets Service, Azure API Management, Application Insights, Azure Monitor, Azure Functions, Azure Event Hubs, Microsoft Entra ID, Azure Storage, Azurite, Kubernetes, Docker, Docker Compose, KEDA, Visual Studio Code, OpenTelemetry, Grafana, Jaeger, Zipkin, .NET, ASP.NET Core, Azure DevOps, GitHub Actions**
 
 MCP, Microsoft Foundry, Azure Speech
 
