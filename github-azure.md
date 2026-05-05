@@ -20,6 +20,15 @@ SQL Server, PostgreSQL, MySQL
 | ------------ | ---- | ---- |
 
 
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de produtos em uma base PostgreSQL. Inclui o uso do Testcontainers para criação do ambiente de testes com os dados + observabilidade com Grafana + OpenTelemetry. | ---- | https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-otel-grafana_consultaprodutos-v2 |
+
+
+| Exemplo em .NET 10 de Console Application que faz uso do projeto Microsoft Agent Framework, com integração com soluções de IA como Microsoft Foundry na consulta de informações de produtos em uma base PostgreSQL e no consumo de um MCP Server. Inclui o uso do Testcontainers para criação do ambiente de testes + observabilidade com Grafana + OTEL. | ---- | https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-mcp-otel-grafana_consultaprodutos |
+
+
+| Implementação em ASP.NET Core + .NET 10 de MCP Server para contagem de acessos a partir de uma instância do Redis gerada via Testcontainers. Inclui o uso de um script do Docker Compose para ambiente de monitoramento/observabilidade com OpenTelemetry + Grafana. | ---- | https://github.com/renatogroffe/aspnetcore10-mcp-otel-grafana-redis-testcontainers_contagem |
+
+
 
 | Exemplo de Worker Service que simula um Consumer do RabbitMQ baseado em uma queue vinculada a uma exchange do tipo Fan-out e com monitoramento via OpenTelemetry + Grafana + Alloy + Tempo. Inclui script do Docker Compose para subida do ambiente de testes. | ---- | https://github.com/renatogroffe/dotnet10-worker-consumer-rabbitmq-exchange-fanout-otel-grafana |
 
