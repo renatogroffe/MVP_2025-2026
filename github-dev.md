@@ -18,6 +18,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
+
+| Exemplo em .NET 10 de Console Application para geração simulada de cotações de moedas estrangeiras (dólar, euro e libra) no Redis. Inclui Docker Compose para subida de ambiente de testes com Redis + Redis Insight. | ---- | https://github.com/renatogroffe/dotnet10-consoleapp-redis_simulacaocotacoes |
+
 | Exemplo em .NET 11 de Console Application demonstrando melhorias na manipulação de emojis com o tipo System.Text.Rune. | ---- | https://github.com/renatogroffe/dotnet11-consoleapp-rune-emojis |
 | Exemplo em .NET 11 + C# 15 de Console Application que faz uso de Console Expression Arguments. | ---- | https://github.com/renatogroffe/dotnet11-csharp15-consoleapp-collectionexpressionargs |
 | Exemplo em .NET 11 de Console Application que faz uso de métodos do tipo System.Net.Mime.MediaTypeMap. | ---- | https://github.com/renatogroffe/dotnet11-consoleapp-mediatypemap |
