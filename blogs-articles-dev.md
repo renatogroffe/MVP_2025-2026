@@ -10,7 +10,7 @@ Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 20
 
 **First repository published on April 1, 2024.**
 
-**Last repository published on March 30, 2025.**
+**Last repository published on March 7, 2026.**
 
 The table below describes each of the articles, including links to view each content.
 
@@ -18,6 +18,7 @@ MCP, Artificial Intelligence
 
 | Article/ Blog Post | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
+| REST API Load Testing with k6: Exporting results to a dashboard | 2026-03-07 | ------------ | https://www.linkedin.com/posts/renatogroffe_k6-azuredevops-webdashboard-share-7436046320089595904-GabL/ |
 | Generative AIs + Containers: Docker Hub MCP Server | 2026-02-07 | This LinkedIn post discusses the possibilities of using Docker Hub MCP Server, with an example involving Visual Studio Code and GitHub Copilot. | https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-share-7425883496029745152-Z7QI/ |
 | MCP Audit: analyzing MCP Servers in a Code Repository | 2026-01-17 | This LinkedIn post discusses the use of the open-source tool MCP Audit to check for vulnerabilities related to the use of MCPs in code repositories, providing an example that detects configurations with various types of MCP Servers (Docker container, npm, Web Apps).... | https://www.linkedin.com/posts/renatogroffe_apisecuniversity-mcp-mcpaudit-activity-7418336305979326464-1zrR/ |
 | Automated testing of MCP Servers: an example with k6 + Azure DevOps | 2026-01-09 | This LinkedIn post discusses using the k6 extension for testing MCP Servers (enabled via build in a container), with automated validation execution on an MCP Server running from a container in an Azure DevOps pipeline. | https://www.linkedin.com/posts/renatogroffe_k6-mcp-ai-share-7415187823382749184-dVYw/ |
