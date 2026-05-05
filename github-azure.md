@@ -19,7 +19,7 @@ SQL Server, PostgreSQL, MySQL
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 
-| ------------ | ---- | ---- |
+| Slides e conteúdos da apresentação "Azure Managed Grafana: monitoramento na nuvem com eficiência e flexibilidade". Palestra realizada durante o Grafana Weekend em 21/03/2026 na cidade de São Paulo-SP. | ---- | https://github.com/renatogroffe/azure-managed-grafana_grafana-weekend-2026-03 |
 
 
 | Exemplo de uso do KEDA com o scaler Cron (com escalabilidade pré-agendada) tomando como base uma aplicação para envio de requisições HTTP a endpoints genéricos. | ---- | https://github.com/renatogroffe/kubernetes-keda-cron_worker-httprequests |
