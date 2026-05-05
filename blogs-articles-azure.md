@@ -10,7 +10,7 @@ Main technologies and topics covered: **Azure API Management, Azure Managed Graf
 
 **First article published on April 15, 2024.**
 
-**Last article published on February 10, 2025.**
+**Last article published on February 28, 2026.**
 
 The table below describes each of the articles, including links to view each content.
 
