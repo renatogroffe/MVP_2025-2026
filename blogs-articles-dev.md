@@ -14,9 +14,9 @@ Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 20
 
 The table below describes each of the articles, including links to view each content.
 
-| Article | Date | Description | Link |
+| Article/ Blog Post | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-| .NET 10 - New Features: improvements in numerical ordering of strings | 2026-02-28 | ????<br/>Technologies covered: .NET 10, C#, Visual Studio 2022, Web Development |  |
+| Generative AIs + Containers: Docker Hub MCP Server | 2026-02-07 | This LinkedIn post discusses the possibilities of using Docker Hub MCP Server, with an example involving Visual Studio Code and GitHub Copilot. | https://www.linkedin.com/posts/renatogroffe_docker-dockerhub-mcpserver-share-7425883496029745152-Z7QI/  |
 
 xxxxxxxxxxxxxxxxx
 
