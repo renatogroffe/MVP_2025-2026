@@ -20,6 +20,9 @@ COMEÇAR EM: https://github.com/renatogroffe?page=3&tab=repositories
 | ------------ | ---- | ---- |
 
 
+| Exemplo de implementação de testes de validação com k6 para MCP Servers acionados via dnx (.NET 10) e que inclui execução automatizada a partir de um pipeline do Azure DevOps. Inclui o build do executável do k6 com a extensão para MCPs via container. | ---- | https://github.com/renatogroffe/k6-mcps-tests-dnx-azdevops-pipelines |
+
+
 | Conteúdos de apresentação sobre MCP realizada no dia 27/09/2025. Tecnologias abordadas: MCP, AI, LLMs, GitHub Copilot, Docker, Docker MCP Hub, Visual Studio Code, Azure API Management, .NET, Java, Node.js, Python... | ---- | https://github.com/renatogroffe/mcp-vscode-dev-days-2025-09-spcapital |
 
 
