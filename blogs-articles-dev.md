@@ -4,7 +4,7 @@ Number of articles: **22**
 
 Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, JWT, Mermaid, MySQL, Minimal APIs...**
 
-**First repository published on April 1, 2024.**
+**First repository published on April 30, 2025.**
 
 **Last repository published on March 7, 2026.**
 
