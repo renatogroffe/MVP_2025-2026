@@ -2,19 +2,13 @@
 
 Number of blog posts/articles: **11**
 
-Main technologies and topics covered: **Azure API Management, Azure Managed Grafana, Azure Kubernetes Service, Kubernetes, Docker, Azure Monitor, Application Insights, Log Analytics, Prometheus, Azure Container Apps, Azure Storage, Microsoft Entra ID...**
+Main technologies and topics covered: **Microsoft Azure, Azure Kubernetes Service, Grafana, Prometheus, OpenTelemetry, Azure Managed Grafana, Azure App Service, Azure Container Apps, Azure Functions, Azure Certifications, Application Insights, Azure Monitor, Azure Log Analytics...**
 
 **First article published on May 19, 2025.**
 
 **Last article published on February 28, 2026.**
 
 The table below describes each of the articles, including links to view each content.
-
-
-
-
-
-
 
 | Blog post/Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
