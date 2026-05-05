@@ -1,10 +1,6 @@
 # Articles - Developer Technologies
 
-Number of articles: **28**
-
-Blogs where these articles were published:
-- **https://renatogroffe.medium.com/**
-- **https://www.azurebrasil.cloud/author/renato/**
+Number of articles: **22**
 
 Main technologies covered: **.NET 9, .NET 10, ASP.NET Core, C#, Visual Studio 2022, Visual Studio Code, GitHub, GitHub Copilot, JWT, Mermaid, MySQL, Minimal APIs...**
 
@@ -35,6 +31,7 @@ MCP, Artificial Intelligence
 | Testcontainers: simplifying integration tests with PostgreSQL | 2025-10-23 | This LinkedIn post discusses the use of Testcontainers with PostgreSQL in applications, highlighting best practices for using Testcontainers modules. The content also includes a repository with an example of running performance tests in .NET, comparing the performance of data access solutions such as Entity Framework Core, Dapper, and ADO. The repository also contains a workflow for automating test execution on GitHub Actions. | https://www.linkedin.com/posts/renatogroffe_testcontainers-containers-docker-share-7387133885333164034-Cig1/ |
 | Public and free REST APIs for testing: exploring a catalog with hundreds of options | 2025-09-30 | ------------ | https://renatogroffe.medium.com/apis-rest-p%C3%BAblicas-e-gratuitas-para-testes-conhecendo-um-cat%C3%A1logo-com-centenas-de-op%C3%A7%C3%B5es-bab6bd7b90a3 |
 | Artificial Intelligence + SQL Server: a practical example of using MCP | 2025-08-19 | Linkedin post that provides an example demonstrating the use of MCP Server for SQL Server from Visual Studio Code and GitHub Copilot, with a test environment created via Docker Compose. | https://www.linkedin.com/posts/renatogroffe_sqlserver-mcp-githubcopilot-activity-7363637262447763456-Bm3-/ |
+| .NET 10 - Reference Guide: Articles, Videos and Examples | 2025-07-31 | Article grouping free content such as other posts, videos and examples of using the new features of .NET 10.<br/>Technologies covered: .NET 10, C# 14, ASP.NET Core, Visual Studio Code, Visual Studio, Docker | https://renatogroffe.medium.com/net-10-guia-de-refer%C3%AAncia-artigos-dicas-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-0621fda1e498?postPublishedType=repub |
 | New features in C# 14: improvements to Generics support with the nameof expression. | 2025-06-17 | ------------ | https://renatogroffe.medium.com/novidades-do-c-14-melhorias-no-suporte-a-generics-com-a-express%C3%A3o-nameof-c95d8d6cad08 |
 | New features in .NET 10: support for using YAML with OpenAPI in ASP.NET Core applications | 2025-04-31 | ------------ | https://renatogroffe.medium.com/novidades-do-net-10-suporte-ao-uso-de-yaml-com-openapi-em-aplica%C3%A7%C3%B5es-asp-net-core-c1d0e3667b9f |
 | New features in C# 14: Null-conditional assignment | 2025-04-30 | ------------ | https://renatogroffe.medium.com/novidades-do-c-14-null-conditional-assignment-1e2127c45677 |
