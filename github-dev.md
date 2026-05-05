@@ -1,20 +1,14 @@
 # Repositories - Developer Technologies
 
-Number of repositories: **117**
+Number of repositories: **89**
 
 Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, JWT, Docker, NuGet, Grafana k6, SQL Server, PostgreSQL, Dapper, Entity Framework Core, Testcontainers, Linux, iOS, Podman, Mermaid, React Native, JavaScript, macOS, iOS, Android, Flutter, GitHub Copilot, MCP...**
 
-**First repository created on April 02, 2024.**
+**First repository created on April 04, 2025.**
 
 **Last repository created on March 22, 2025.**
 
 The table below describes each of the projects, including links to view each of these examples.
-
-
-
-
-
-
 
 | Description | Date | Link |
 | ------------ | ---- | ---- |
